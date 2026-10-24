@@ -10,7 +10,7 @@ An interactive 3-page Power BI report built on **717 job postings** from the Adz
 
 | Page 1: Overview | Page 2: Skills and Roles | Page 3: Salary, Experience and Location |
 |---|---|---|
-| ![Overview](screenshots/Overview.png) | ![Skills and Roles](screenshots/Skills_and_Roles.png) | ![Salary and Location](screenshots/Salary_and_Location.png) |
+| ![Overview](Overview.png) | ![Skills and Roles](Skills_and_Roles.png) | ![Salary and Location](Salary_and_Location.png) |
 
 Full report as PDF: [India_Job_Market_Dashboard.pdf](India_Job_Market_Dashboard.pdf)
 
