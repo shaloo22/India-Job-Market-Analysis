@@ -1,0 +1,718 @@
+job_id,role,title,company,city,salary_min_lpa,salary_max_lpa,min_experience_years,posted_date,has_skills,has_salary,salary_mid_lpa,is_recent,skills_required
+5914221382,Full Stack Developer,Full Stack Developer - Java Full Stack Development,Trigent Software Private Limited,Bangalore,10,25,5,07-10-2026,TRUE,TRUE,17.5,TRUE,"Java, React, AWS, Spring Boot"
+5913832679,Full Stack Developer,Full Stack Developer,Vrinda International,Hyderabad,12,14,,06-10-2026,FALSE,TRUE,13,TRUE,NA
+5910203921,Full Stack Developer,Full Stack Developer,Vrinda International,Bangalore,17,17,,03-10-2026,FALSE,TRUE,17,TRUE,NA
+5900003648,Full Stack Developer,Full Stack Developer,Vrinda International,Pune,12,15,4,27-09-2026,FALSE,TRUE,13.5,TRUE,NA
+5516085466,Full Stack Developer,Full-Stack Developer,VSI Infotech LLP,NA,,,,27-11-2025,FALSE,FALSE,,FALSE,NA
+5832031719,Full Stack Developer,Full Stack Developer,VSI Infotech LLP,NA,,,5,07-08-2026,TRUE,FALSE,,TRUE,Angular
+5897308768,Full Stack Developer,Full Stack Developer,Vrinda International,NA,20,28,,25-09-2026,FALSE,TRUE,24,TRUE,NA
+5904502930,Full Stack Developer,Full Stack Developer,Test Unity,Chennai,5,6,4,01-10-2026,TRUE,TRUE,5.5,TRUE,REST APIs
+5832769844,Full Stack Developer,Full Stack Developer,Aliste Technologies,Noida,15,18,,08-08-2026,TRUE,TRUE,16.5,TRUE,"React, Node.js"
+5883094446,Full Stack Developer,Full Stack Developer,triveous,NA,5,7,,14-09-2026,FALSE,TRUE,6,TRUE,NA
+5897308792,Full Stack Developer,Full Stack Developer,SalaryBox,Gurgaon,,,,25-09-2026,FALSE,FALSE,,TRUE,NA
+5868944195,Full Stack Developer,Full Stack Developer,Hire Fellows,NA,,,,03-09-2026,FALSE,FALSE,,TRUE,NA
+5729388787,Full Stack Developer,Full Stack Developer,Qube Cinema,NA,,,,14-05-2026,FALSE,FALSE,,TRUE,NA
+5851019126,Full Stack Developer,Full Stack Developer,Virallens,NA,,,3,21-08-2026,TRUE,FALSE,,TRUE,Generative AI
+5782260106,Full Stack Developer,Full Stack Developer,Side,NA,,,,30-06-2026,TRUE,FALSE,,TRUE,"Python, React"
+5892808084,Full Stack Developer,Full-Stack Developer,retailcloud,Other,,,1,21-09-2026,TRUE,FALSE,,TRUE,"JavaScript, TypeScript, React, Node.js, REST APIs"
+5670538431,Full Stack Developer,Full Stack Developer,Apna,NA,,,,18-03-2026,FALSE,FALSE,,FALSE,NA
+5810200337,Full Stack Developer,Full Stack Developer,Durapid Technologies Pvt Ltd,NA,15,18,,22-07-2026,FALSE,TRUE,16.5,TRUE,NA
+5748273726,Full Stack Developer,Full Stack Developer,AJAIA,NA,,,,02-06-2026,FALSE,FALSE,,TRUE,NA
+5698909821,Full Stack Developer,Full-Stack Developer,Huzzle,NA,,,,14-04-2026,FALSE,FALSE,,TRUE,NA
+5840035168,Full Stack Developer,Full Stack Developer,Smartstream Limited,NA,,,4,13-08-2026,TRUE,FALSE,,TRUE,"Java, Angular, AWS, Apache Spark"
+5893913811,Full Stack Developer,Full Stack Developer,Ebizon,Noida,,,,22-09-2026,TRUE,FALSE,,TRUE,"Python, React"
+5790571005,Full Stack Developer,Full Stack Developer,BlankSpace,Other,,,,07-07-2026,FALSE,FALSE,,TRUE,NA
+5751556449,Full Stack Developer,Full Stack Developer,NA,NA,,,,04-06-2026,FALSE,FALSE,,TRUE,NA
+4686701036,Full Stack Developer,Full Stack Developer,NA,Chennai,,,1,10-05-2024,TRUE,FALSE,,FALSE,"JavaScript, Node.js, HTML/CSS, Docker, Git, MySQL, Vue.js"
+3183163903,Full Stack Developer,Full Stack Developer,MANI WEB SOLUTIONS PVT LTD,Mumbai,5,8,,31-05-2022,TRUE,TRUE,6.5,FALSE,"Python, React"
+1972325139,Full Stack Developer,Full Stack Developer,Numadic,Other,,7,,05-02-2021,FALSE,FALSE,,FALSE,NA
+5430608978,Full Stack Developer,Full Stack Developer,Nyx Wolves,NA,12,15,5,04-10-2025,TRUE,TRUE,13.5,FALSE,"TypeScript, Angular, MongoDB, PostgreSQL, REST APIs"
+3090400638,Full Stack Developer,Full Stack Developer,WTF,Noida,10,16,,30-04-2022,FALSE,TRUE,13,FALSE,NA
+4145143245,Full Stack Developer,Full Stack Developer,SkillTurk Automation,NA,3.6,8.4,,10-06-2023,TRUE,TRUE,6,FALSE,"Python, JavaScript, HTML/CSS"
+5889525144,Full Stack Developer,Full Stack Developer,Pontoonglobal,NA,6,6,5,18-09-2026,FALSE,TRUE,6,TRUE,NA
+5503836156,Full Stack Developer,Full Stack Developers,Zeptoware System Private Limited,Chennai,,,,20-11-2025,FALSE,FALSE,,FALSE,NA
+4971565889,Full Stack Developer,Full Stack Developer,Metadologie,Jaipur,15,22,,11-12-2024,FALSE,TRUE,18.5,FALSE,NA
+5916923735,Full Stack Developer,Full Stack Developer,Geniusmesh India Pvt Ltd,Other,5,6,,07-10-2026,FALSE,TRUE,5.5,TRUE,NA
+5215131039,Full Stack Developer,Full Stack Developer,eblity,NA,9,12,,25-05-2025,FALSE,TRUE,10.5,FALSE,NA
+3576196806,Full Stack Developer,Full Stack Developer,3 Minds Digital,Mumbai,3,9,,11-10-2022,TRUE,TRUE,6,FALSE,React
+5889502114,Full Stack Developer,Full Stack Developer,Vaero,NA,,1,,18-09-2026,TRUE,FALSE,,TRUE,"JavaScript, HTML/CSS"
+5727158428,Full Stack Developer,Full Stack Developer,Career Creed HR Services,Noida,6,6,,13-05-2026,TRUE,TRUE,6,TRUE,React
+5916868780,Full Stack Developer,Full Stack Developer,Bit Canny technologies Pvt. Ltd,Kolkata,4,8,3,07-10-2026,FALSE,TRUE,6,TRUE,NA
+5909807224,Full Stack Developer,Full Stack Develop,Gravity Engineering Services Pvt Ltd,Delhi,4,30,1,03-10-2026,TRUE,TRUE,17,TRUE,"Python, SQL, JavaScript, TypeScript, Node.js, REST APIs"
+3035278503,Full Stack Developer,Full Stack Developer,LAD Solutions,Pune,2,9,,08-04-2022,FALSE,TRUE,5.5,FALSE,NA
+5130342276,Full Stack Developer,Full Stack Developer,Just Gold,NA,6,10,1,05-04-2025,TRUE,TRUE,8,FALSE,"Java, JavaScript, React, Node.js, HTML/CSS, AWS, MongoDB"
+4060275730,Full Stack Developer,Full Stack Developer,Fortmindz,Kolkata,3,7,,25-04-2023,FALSE,TRUE,5,FALSE,NA
+2764126201,Full Stack Developer,Full Stack Developer,Symansys Technologies India Pvt Ltd,Chennai,1,12,5,24-12-2021,TRUE,TRUE,6.5,FALSE,"JavaScript, React, HTML/CSS, MySQL"
+4267564455,Full Stack Developer,Full Stack Developer,IGraft Global hair Skin Services,Pune,4,5,,19-08-2023,FALSE,TRUE,4.5,FALSE,NA
+3323537204,Full Stack Developer,Full Stack Developer,Dev Group of institutions,Noida,10,30,3,16-07-2022,FALSE,TRUE,20,FALSE,NA
+4547502393,Full Stack Developer,Full Stack Developer,Piako,Kolkata,8,14,,28-01-2024,FALSE,TRUE,11,FALSE,NA
+5904044164,Full Stack Developer,Full Stack Developer,Ascentt-India,Indore,,,5,30-09-2026,TRUE,FALSE,,TRUE,"JavaScript, React, HTML/CSS"
+2959776706,Full Stack Developer,Full Stack Developer,Bluelement Technologies Pvt Lmt,Bangalore,4,6,4,10-03-2022,TRUE,TRUE,5,FALSE,AWS
+5916890447,Full Stack Developer,Full Stack Developer,Deqode,Mumbai,6,28,5,07-10-2026,TRUE,TRUE,17,TRUE,"Java, Angular, Spring Boot"
+4282822475,Full Stack Developer,Full Stack Developer,Igraft,Pune,2,3,,29-08-2023,FALSE,TRUE,2.5,FALSE,NA
+5916911708,Full Stack Developer,Full Stack Developer,Lenek Technologies Private Limited,NA,15,20,1,07-10-2026,TRUE,TRUE,17.5,TRUE,Statistics
+4557038845,Full Stack Developer,Full Stack Developer,P99soft,Hyderabad,15,35,,04-02-2024,TRUE,TRUE,25,FALSE,"JavaScript, React, Node.js, AWS"
+2792651081,Full Stack Developer,Full Stack Developer,Blue9 Technologies,NA,5,7,,06-01-2022,FALSE,TRUE,6,FALSE,NA
+5416720019,Full Stack Developer,Full Stack Developer,Appzlogic Mobility Solution Pvt Ltd,Pune,8,11,5,27-09-2025,TRUE,TRUE,9.5,FALSE,"SQL, JavaScript, React, Node.js, AWS, Docker, Git, REST APIs"
+5146508658,Full Stack Developer,Full Stack Developer,Pragya Shrivastava,Ahmedabad,48,48,2,16-04-2025,TRUE,TRUE,48,FALSE,"React, Angular"
+3576196778,Full Stack Developer,Full Stack Developer,Infomagine Softwares Pvt Ltd,Jaipur,3,10,,11-10-2022,FALSE,TRUE,6.5,FALSE,NA
+4835239869,Full Stack Developer,Full Stack Developer,AlphaBI Solutions Private Limited,Surat,3,5,,22-08-2024,TRUE,TRUE,4,FALSE,React
+5548177224,Full Stack Developer,Full Stack Developer,Synise Technologies Ltd.,Pune,2,5,3,19-12-2025,TRUE,TRUE,3.5,FALSE,Java
+5213471788,Full Stack Developer,Full Stack Developer,logiquad solutions,NA,4,6,3,24-05-2025,TRUE,TRUE,5,FALSE,"Python, SQL, React, Node.js, Git, PostgreSQL, REST APIs, FastAPI"
+4893287341,Full Stack Developer,Full Stack Developer,InfoGrowth private Limited,Hyderabad,3,10,,08-10-2024,FALSE,TRUE,6.5,FALSE,NA
+3129682597,Full Stack Developer,Full Stack Developer,Krishivan Tech,Bangalore,4.8,9,1,13-05-2022,FALSE,TRUE,6.9,FALSE,NA
+5894179641,Full Stack Developer,Full Stack Developer,Startups Map,Surat,,,2,22-09-2026,TRUE,FALSE,,TRUE,"TypeScript, Node.js, REST APIs"
+5913666906,Full Stack Developer,Full Stack Developer,Ascentt,Indore,,,,06-10-2026,TRUE,FALSE,,TRUE,"Machine Learning, Generative AI"
+5916892840,Full Stack Developer,Full-Stack Developer,Driftmark Technology,NA,1,3,,07-10-2026,TRUE,TRUE,2,TRUE,"JavaScript, HTML/CSS"
+5894127859,Full Stack Developer,Full Stack Developer,RECEX,Kolkata,3.6,8.4,,22-09-2026,FALSE,TRUE,6,TRUE,NA
+3952653185,Full Stack Developer,Full Stack Developer,CogniTensor,Noida,6,10,,02-03-2023,FALSE,TRUE,8,FALSE,NA
+4361908306,Full Stack Developer,Full Stack Developer,Digiactive Technologies private limited,Delhi,5,10,,10-10-2023,TRUE,TRUE,7.5,FALSE,HTML/CSS
+5889509357,Full Stack Developer,Full Stack Developer,Ini8Labs,Bangalore,,,,18-09-2026,TRUE,FALSE,,TRUE,"Python, MongoDB, PostgreSQL, MySQL, REST APIs"
+5916911537,Full Stack Developer,Full Stack Developer,Vavo Digital,Mumbai,2,4,,07-10-2026,FALSE,TRUE,3,TRUE,NA
+5508267668,Full Stack Developer,Full Stack Developer,Talentgum,Jaipur,,,,22-11-2025,FALSE,FALSE,,FALSE,NA
+4623773359,Full Stack Developer,Full Stack Developer,Fresh Spar Technologies,Coimbatore,7,8,,26-03-2024,FALSE,TRUE,7.5,FALSE,NA
+4686700586,Full Stack Developer,Full Stack Developer,NA,Delhi,,,,10-05-2024,TRUE,FALSE,,FALSE,"Node.js, Vue.js"
+4514375905,Full Stack Developer,Full Stack Developer,Qrata,Bangalore,6,8,,07-01-2024,TRUE,TRUE,7,FALSE,"Java, React"
+5899536035,Full Stack Developer,Full Stack Developer,Gemba Concepts,Bangalore,,,4,26-09-2026,FALSE,FALSE,,TRUE,NA
+5879562176,Full Stack Developer,Full Stack Developer,Majoris Technologies,Bangalore,2,30,,11-09-2026,TRUE,TRUE,16,TRUE,Angular
+1171507318,Full Stack Developer,Full Stack Developer,oneops technology systems private limited,Mumbai,2,3,,05-06-2019,FALSE,TRUE,2.5,FALSE,NA
+1259985342,Full Stack Developer,Full Stack Developer,Instacar,Bangalore,6,12,,11-09-2019,FALSE,TRUE,9,FALSE,NA
+1161626871,Full Stack Developer,Full Stack Developer,Black Turtle Diginovation Pvt Ltd,Bangalore,5,7,,24-05-2019,TRUE,TRUE,6,FALSE,JavaScript
+5857743177,Full Stack Developer,Full Stack Development,SP Staffing Services Private Limited,Bangalore,,,5,27-08-2026,TRUE,FALSE,,TRUE,"Java, React, Spring Boot"
+3387635136,Full Stack Developer,Full Stack Developer,virtuevise,NA,1,7,,09-08-2022,TRUE,TRUE,4,FALSE,Angular
+4527558239,Full Stack Developer,Full Stack Developer,Mahadao,NA,7,10,,16-01-2024,TRUE,TRUE,8.5,FALSE,React
+4133265570,Full Stack Developer,Full Stack Developer,Translytics Business Services Pvt Ltd,Pune,12,15,,03-06-2023,FALSE,TRUE,13.5,FALSE,NA
+4312143145,Full Stack Developer,Full Stack Developer,W2S Solutions,Chennai,4,8.5,3,14-09-2023,TRUE,TRUE,6.25,FALSE,"React, Node.js, Angular, MongoDB"
+3956928880,Full Stack Developer,Full Stack Developer,CPOint5,NA,3,12,,04-03-2023,TRUE,TRUE,7.5,FALSE,React
+5818242155,Full Stack Developer,Full Stack Developer,NAM Info Pvt Ltd,Chennai,2,10,6,28-07-2026,TRUE,TRUE,6,TRUE,"Java, TypeScript, PostgreSQL, REST APIs"
+5889497403,Full Stack Developer,Full Stack Developer,Icloudlogic,Bangalore,,,4,18-09-2026,TRUE,FALSE,,TRUE,"Python, Java, React, AWS"
+3290771335,Full Stack Developer,Full Stack Developer,Business Butler,NA,3,6,,05-07-2022,TRUE,TRUE,4.5,FALSE,"Java, Spring Boot"
+5411700134,Full Stack Developer,Full Stack Developer,Cravingcode Technologies Pvt Ltd,NA,5,9,3,23-09-2025,TRUE,TRUE,7,FALSE,Angular
+5731156367,Full Stack Developer,Full Stack Developer,Brego Business,Mumbai,10,11,,16-05-2026,FALSE,TRUE,10.5,TRUE,NA
+5210027137,Full Stack Developer,Full Stack Developer,KG Microcollege,Coimbatore,5,8,5,22-05-2025,TRUE,TRUE,6.5,FALSE,"Python, SQL, JavaScript, React, HTML/CSS, MongoDB"
+5087968812,Full Stack Developer,Full Stack Developer,Dyrect,NA,6,13,,12-03-2025,FALSE,TRUE,9.5,FALSE,NA
+5916887371,Full Stack Developer,Full-Stack Developer,CineArtery,Bangalore,4,5,,07-10-2026,TRUE,TRUE,4.5,TRUE,"Python, React, FastAPI, Django"
+3466318971,Full Stack Developer,Full Stack Developer,IoTRL Connect Pvt Ltd,NA,5,9,,07-09-2022,FALSE,TRUE,7,FALSE,NA
+5900190860,Full Stack Developer,Full Stack Development,Hucon Solutions India Private Limited,NA,,,,27-09-2026,TRUE,FALSE,,TRUE,"Python, TypeScript, React, REST APIs, FastAPI"
+5916891808,Full Stack Developer,Full Stack Developer,Flytbase,Pune,8,25,2,07-10-2026,FALSE,TRUE,16.5,TRUE,NA
+3115911567,Full Stack Developer,Full Stack Developer,TATA Business Hub,Chennai,,,2,09-05-2022,TRUE,FALSE,,FALSE,"SQL, Java, React, Angular, HTML/CSS"
+5463613333,Full Stack Developer,Full Stack Developer,QuickPlansAI,Bangalore,3,6,,25-10-2025,FALSE,TRUE,4.5,FALSE,NA
+5143619304,Full Stack Developer,Full Stack Developer,SparrowHost,Other,1.5,2,,14-04-2025,TRUE,TRUE,1.75,FALSE,"React, Node.js"
+5664858096,Full Stack Developer,Full Stack Developer,Shrameco Pvt Ltd,NA,3.5,4,,14-03-2026,FALSE,TRUE,3.75,FALSE,NA
+5557106614,Full Stack Developer,Full Stack Developer,IAI solution,Bangalore,25,35,5,27-12-2025,FALSE,TRUE,30,FALSE,NA
+3370423286,Full Stack Developer,Full Stack Developer,hr footprints management services pvt ltd,NA,5,8,2,03-08-2022,TRUE,TRUE,6.5,FALSE,"SQL, Angular, Git"
+4091518947,Full Stack Developer,Full Stack Developer,Fork Media Group Pvt Ltd,Mumbai,6,12,,10-05-2023,FALSE,TRUE,9,FALSE,NA
+3262155285,Full Stack Developer,Full Stack Developer,Klenty,Chennai,2,8,,26-06-2022,FALSE,TRUE,5,FALSE,NA
+5916890230,Full Stack Developer,Full Stack Developer,Deqode,Bangalore,5,25,4.5,07-10-2026,TRUE,TRUE,15,TRUE,"Java, React, REST APIs, Spring Boot"
+5251262957,Full Stack Developer,Full Stack Developer,Moshi Moshi,Bangalore,4,6,,15-06-2025,FALSE,TRUE,5,FALSE,NA
+4812320737,Full Stack Developer,Full Stack Developer,Alpharive Tech Pvt Ltd,Other,3,5,,06-08-2024,TRUE,TRUE,4,FALSE,"Python, Java, JavaScript, React, Node.js, Angular, HTML/CSS, MongoDB, MySQL"
+5020804645,Full Stack Developer,Full Stack Developer,TIGI HR Solution Pvt. Ltd.,Surat,2,4,,23-01-2025,TRUE,TRUE,3,FALSE,"JavaScript, React, Node.js, HTML/CSS, Git, PostgreSQL, MySQL, REST APIs, Vue.js"
+2037748470,Full Stack Developer,Full Stack -Developer,Skill Monks - A unit of Scuti Tech Labs Pvt Ltd,Hyderabad,,10,2,08-03-2021,TRUE,FALSE,,FALSE,"Java, JavaScript, Angular, AWS, Git, Linux, MySQL, Spring Boot"
+5430608976,Full Stack Developer,Full Stack Developer,EquityList,NA,15,30,3,04-10-2025,TRUE,TRUE,22.5,FALSE,React
+5295061214,Full Stack Developer,Full Stack Developer,Brandzzy SoftTech Private Limited,Other,6,12,,10-07-2025,FALSE,TRUE,9,FALSE,NA
+3783731550,Full Stack Developer,Full - Stack Developer,Humancloud Technology Pvt Ltd,Pune,13,18,,18-12-2022,FALSE,TRUE,15.5,FALSE,NA
+5850370964,Full Stack Developer,Full Stack Developer,Trigyn Technologies Limited,Pune,,,,21-08-2026,TRUE,FALSE,,TRUE,JavaScript
+5868118637,Full Stack Developer,Full Stack Developer,Nisum,Hyderabad,,,,03-09-2026,TRUE,FALSE,,TRUE,"Java, REST APIs, Spring Boot"
+5645305946,Full Stack Developer,Full Stack Developer,Wing Assistant,Bangalore,3.6,3.96,,26-02-2026,FALSE,TRUE,3.78,FALSE,NA
+5020804631,Full Stack Developer,Full Stack Developer,TIGI HR Solution Pvt. Ltd.,NA,1,3,,23-01-2025,TRUE,TRUE,2,FALSE,"JavaScript, React, Node.js, HTML/CSS, Git, PostgreSQL, MySQL, REST APIs, Vue.js"
+5878691821,Full Stack Developer,Full Stack Developer,Barclays,NA,,,,10-09-2026,FALSE,FALSE,,TRUE,NA
+2909916459,Full Stack Developer,Full Stack Developer,Guruji Astro,Jaipur,6,15,,19-02-2022,TRUE,TRUE,10.5,FALSE,"JavaScript, HTML/CSS"
+3911379851,Full Stack Developer,Full Stack Developer,iKonsult,NA,2,5,1,08-02-2023,TRUE,TRUE,3.5,FALSE,"React, Node.js"
+3214411123,Full Stack Developer,Full Stack Developer,trivial works solutions pvt. ltd.,Lucknow,3,7,2,10-06-2022,TRUE,TRUE,5,FALSE,"React, Node.js, PostgreSQL, MySQL, REST APIs"
+1171507301,Full Stack Developer,Full Stack Developer,Byte Prophecy,Ahmedabad,2,6,,05-06-2019,TRUE,TRUE,4,FALSE,"Node.js, MySQL"
+4686703632,Full Stack Developer,Full Stack Developer,NA,Kolkata,,,,10-05-2024,FALSE,FALSE,,FALSE,NA
+5889512156,Full Stack Developer,Full Stack Developer,GravityxAI,Bangalore,3,5,1,18-09-2026,TRUE,TRUE,4,TRUE,"Python, React, Node.js"
+3843159849,Full Stack Developer,Full Stack Developer,DataSpace Security Pvt Ltd,Kolkata,4,12,,12-01-2023,TRUE,TRUE,8,FALSE,"React, Node.js"
+5894590291,Full Stack Developer,Full Stack Developer,Zigsaw,Hyderabad,,,6,23-09-2026,FALSE,FALSE,,TRUE,NA
+5280546829,Full Stack Developer,Full Stack Developer,BigRio,NA,20,25,,03-07-2025,FALSE,TRUE,22.5,FALSE,NA
+5671643038,Full Stack Developer,Full Stack Developer,Strategic Pathfinder,Bangalore,6,9,,19-03-2026,FALSE,TRUE,7.5,FALSE,NA
+5447797245,Full Stack Developer,Full Stack Developer,aurusai,NA,1,2,,15-10-2025,TRUE,TRUE,1.5,FALSE,Azure
+5390148813,Full Stack Developer,Full Stack Developer,Octobotics Tech,Delhi,4.8,6,,09-09-2025,FALSE,TRUE,5.4,FALSE,NA
+4502182400,Full Stack Developer,Full Stack Developer,Aptech,Mumbai,10,15,,30-12-2023,TRUE,TRUE,12.5,FALSE,MongoDB
+4712759809,Full Stack Developer,Full Stack Developer,Artdex and Cognoscis Technologies LLP,Mumbai,6,12,3,30-05-2024,TRUE,TRUE,9,FALSE,"Python, JavaScript, React, Django"
+5834762952,Full Stack Developer,Full Stack Developer,HeapTrace Technology,Pune,,,2,09-08-2026,FALSE,FALSE,,TRUE,NA
+2406633840,Full Stack Developer,Full Stack Developer,Jobdost,Bangalore,,10,3,25-08-2021,TRUE,FALSE,,FALSE,REST APIs
+1171507371,Full Stack Developer,Full Stack Developer,InnovatorsBay,Bangalore,7,10,,05-06-2019,TRUE,TRUE,8.5,FALSE,"React, Angular, HTML/CSS"
+3323538611,Full Stack Developer,Full Stack Developer,TIKAJ,NA,2,4,,16-07-2022,TRUE,TRUE,3,FALSE,"JavaScript, TypeScript, HTML/CSS, Vue.js"
+3262155196,Full Stack Developer,Full Stack Developer,Ascent Cyber Solutions,Bangalore,10,20,5,26-06-2022,TRUE,TRUE,15,FALSE,"React, Node.js"
+5886724668,Full Stack Developer,Full Stack Developer,Happiest Resume,Noida,2,6,,17-09-2026,TRUE,TRUE,4,TRUE,"Python, SQL, Java, JavaScript, TypeScript, React, Node.js, Angular, HTML/CSS, MongoDB, PostgreSQL, MySQL, REST APIs, Vue.js"
+5706890420,Full Stack Developer,Full Stack Developer,Brainayan,NA,3,10,,22-04-2026,FALSE,TRUE,6.5,TRUE,NA
+1171508114,Full Stack Developer,Full Stack Developer,Autonom8,Bangalore,5,15,,05-06-2019,TRUE,TRUE,10,FALSE,JavaScript
+1171507177,Full Stack Developer,Full Stack Developer,Devstrong,Delhi,1.8,3.6,,05-06-2019,TRUE,TRUE,2.7,FALSE,Git
+2171039989,Full Stack Developer,Full-Stack Developer,Qrata,Mumbai,15,23,,08-05-2021,TRUE,TRUE,19,FALSE,"React, Node.js, MongoDB"
+5438278397,Full Stack Developer,Full Stack Developer,TIGI HR Solution Pvt. Ltd.,Bangalore,14,15,3,09-10-2025,TRUE,TRUE,14.5,FALSE,"Python, React, PostgreSQL, MySQL, REST APIs, FastAPI, Django, Flask"
+5916867673,Full Stack Developer,Full Stack Developer,The Red Arc,NA,10,30,0,07-10-2026,TRUE,TRUE,20,TRUE,"JavaScript, React, Node.js, Angular, HTML/CSS, REST APIs"
+2890608757,Data Analyst,Data Analyst,Fragma Data Systems,NA,6,8,,12-02-2022,TRUE,TRUE,7,FALSE,"SQL, Azure, Apache Spark, Data Visualization"
+4686704927,Data Analyst,Data Analyst,NA,Vadodara,,,1,10-05-2024,FALSE,FALSE,,FALSE,NA
+5917530236,Data Analyst,Data Analyst,Fixotec Pipe Supports Pvt. Ltd.,Thane,,,,08-10-2026,FALSE,FALSE,,TRUE,NA
+5877842241,Data Analyst,Data Analyst,3i Infotech Limited,Mumbai,,,,10-09-2026,TRUE,FALSE,,TRUE,"Python, SQL, Excel"
+5913461493,Data Analyst,Data Analyst,Albertsons Companies India,Bangalore,,,,06-10-2026,FALSE,FALSE,,TRUE,NA
+4715697356,Data Analyst,Data Analyst,Sadup Softech,Bangalore,12,15,3,01-06-2024,TRUE,TRUE,13.5,FALSE,"Python, SQL, Excel, Apache Spark, Hadoop"
+5800765376,Data Analyst,Data Analyst,Jetking Technologies Private Limited,Noida,,,1,15-07-2026,TRUE,FALSE,,TRUE,"Excel, Power BI, Tableau, Data Visualization, Statistics"
+5857746715,Data Analyst,Data Analyst,Square Yards,Gurgaon,,,2,27-08-2026,TRUE,FALSE,,TRUE,"Power BI, Tableau"
+2539490267,Data Analyst,Data Analyst,Graphene Services Pte Ltd,Bangalore,,,,13-10-2021,FALSE,FALSE,,FALSE,NA
+5861793858,Data Analyst,Data Analyst,Aon,Bangalore,,,7,30-08-2026,FALSE,FALSE,,TRUE,NA
+5814494533,Data Analyst,Data Analyst,EXL,Pune,,,5,25-07-2026,TRUE,FALSE,,TRUE,"Python, SQL, Apache Spark, Hadoop"
+5549594782,Data Analyst,Data Analyst,Highfly Sourcing,NA,15,25,,20-12-2025,FALSE,TRUE,20,FALSE,NA
+5602825903,Data Analyst,Data Analyst,Hunarstreet Technologies Pvt Ltd,Vadodara,6,8,,28-01-2026,FALSE,TRUE,7,FALSE,NA
+5706462425,Data Analyst,Data Analyst,Cytiva Life Science,Bangalore,,,,22-04-2026,FALSE,FALSE,,TRUE,NA
+4344578568,Data Analyst,Data Analyst,Jobdost,Bangalore,,5,,02-10-2023,FALSE,FALSE,,FALSE,NA
+5852342307,Data Analyst,Data Analyst,Straatix Partners,Bangalore,25,35,7,22-08-2026,FALSE,TRUE,30,TRUE,NA
+5854877435,Data Analyst,Data Analyst,Purview India Consulting And Services Llp,Pune,,,,25-08-2026,FALSE,FALSE,,TRUE,NA
+5592093935,Data Analyst,Data Analyst,Hunarstreet Technologies Pvt Ltd,NA,,7,3,20-01-2026,FALSE,FALSE,,FALSE,NA
+5899555543,Data Analyst,Data Analyst,Uniabroad,NA,5,25,,26-09-2026,FALSE,TRUE,15,TRUE,NA
+5859124126,Data Analyst,Data Analyst,Claight Corporation Expert Market Research,Noida,,,,28-08-2026,FALSE,FALSE,,TRUE,NA
+3337906172,Data Analyst,Data Analyst,Mr n Mrs Pet,Jaipur,1,3,,22-07-2022,FALSE,TRUE,2,FALSE,NA
+5900348948,Data Analyst,Data Analyst,Expleo,Pune,,,8,27-09-2026,FALSE,FALSE,,TRUE,NA
+5904030865,Data Analyst,Data Analyst,Trellance,NA,,,,30-09-2026,FALSE,FALSE,,TRUE,Business Intelligence
+5904434879,Data Analyst,Data Analyst,"Trellance Cooperative Holdings, Inc.",Ahmedabad,,,,01-10-2026,FALSE,FALSE,,TRUE,Business Intelligence
+5762286343,Data Analyst,Data Analyst,Wissen Technology,Bangalore,,,2,13-06-2026,TRUE,FALSE,,TRUE,"Python, SQL, Excel, Power BI"
+1762829126,Data Analyst,Data Analyst,Awign,Bangalore,4,7,,15-10-2020,FALSE,TRUE,5.5,FALSE,NA
+5917125882,Data Analyst,Data Analyst,RWS,Mumbai,,,,07-10-2026,FALSE,FALSE,,TRUE,NA
+5889572874,Data Analyst,Data Analyst,Joinfleek,Bangalore,6,6,,18-09-2026,FALSE,TRUE,6,TRUE,NA
+5842590109,Data Analyst,Data Analyst,Agiliad Technologies,Gurgaon,,,,15-08-2026,TRUE,FALSE,,TRUE,Machine Learning
+4992020344,Data Analyst,Data Analyst,Appitsimple infotek Pvt. Ltd.,NA,1,3,,30-12-2024,FALSE,TRUE,2,FALSE,NA
+4514376058,Data Analyst,Data Analyst,Qrata,Mumbai,5,10,,07-01-2024,FALSE,TRUE,7.5,FALSE,Data Warehouse
+2572832371,Data Analyst,Data Analyst,BitClass,Bangalore,,16,,24-10-2021,FALSE,FALSE,,FALSE,NA
+2635526340,Data Analyst,Data Analyst,Amazon,Bangalore,,8,,12-11-2021,FALSE,FALSE,,FALSE,NA
+5789394746,Data Analyst,Data Analyst,ZEISS,Bangalore,,,,06-07-2026,FALSE,FALSE,,TRUE,NA
+5838433598,Data Analyst,Data Analyst,DXC Technology,NA,,,,12-08-2026,FALSE,FALSE,,TRUE,NA
+5574398026,Data Analyst,Data Analyst,Topcoder,Noida,,,,09-01-2026,TRUE,FALSE,,FALSE,ETL
+2853928118,Data Analyst,Data Analyst,Extramarks,Noida,,10,3,30-01-2022,TRUE,FALSE,,FALSE,"Python, SQL, Statistics"
+5600377478,Data Analyst,Data Analyst,Arcana Analytics,NA,,,,26-01-2026,FALSE,FALSE,,FALSE,NA
+5850376089,Data Analyst,Data Analyst,Egon Zehnder,Gurgaon,,,,21-08-2026,TRUE,FALSE,,TRUE,Power BI
+5879561813,Data Analyst,Data Analyst,Nineleaps,Bangalore,,,,11-09-2026,FALSE,FALSE,,TRUE,NA
+5891242055,Data Analyst,Data Analyst,ascendion,Gurgaon,,,,20-09-2026,FALSE,FALSE,,TRUE,NA
+5916888095,Data Analyst,Data Analyst,ICAD school of Learning,Other,5,8,,07-10-2026,FALSE,TRUE,6.5,TRUE,NA
+5522126592,Data Analyst,Data Analyst,TechnoGen,Bangalore,,,,01-12-2025,TRUE,FALSE,,FALSE,"Hadoop, Data Visualization"
+5902987684,Data Analyst,Data Analyst,Tarento Group,Indore,,,,29-09-2026,FALSE,FALSE,,TRUE,NA
+5917371544,Data Analyst,Data Analyst,Comscore,NA,,,,07-10-2026,FALSE,FALSE,,TRUE,NA
+4988851694,Data Analyst,Data Analyst,Clinton Health Access Initiative,Other,3,4,,25-12-2024,FALSE,TRUE,3.5,FALSE,NA
+5728267279,Data Analyst,Data Analyst,Mantras2Success,Ahmedabad,5,7,,14-05-2026,TRUE,TRUE,6,TRUE,Excel
+4158049546,Data Analyst,Data Analyst,DAZN,Hyderabad,,,,18-06-2023,FALSE,FALSE,,FALSE,NA
+5859122688,Data Analyst,Data Analyst,Robosoft Technologies,Bangalore,,,,28-08-2026,TRUE,FALSE,,TRUE,SQL
+5859122647,Data Analyst,Data Analyst,Robosoft Technologies,Mumbai,,,,28-08-2026,TRUE,FALSE,,TRUE,SQL
+5905899192,Data Analyst,Data Analyst,Natwest Group,Bangalore,,,,01-10-2026,FALSE,FALSE,,TRUE,NA
+4801558701,Data Analyst,Data Analyst,Immunogen Pharmaceutical,Bangalore,,,,31-07-2024,FALSE,FALSE,,FALSE,NA
+5891876431,Data Analyst,Data Analyst,GE Vernova,Bangalore,,,,20-09-2026,TRUE,FALSE,,TRUE,ETL
+5889085236,Data Analyst,Data Analyst,PMC Commerce,Vadodara,,,,18-09-2026,TRUE,FALSE,,TRUE,Power BI
+5835723885,Data Analyst,Data Analyst,Portcast,NA,,,,10-08-2026,FALSE,FALSE,,TRUE,NA
+5917368865,Data Analyst,Data Analyst,Barclays,NA,,,,07-10-2026,FALSE,FALSE,,TRUE,NA
+5897176848,Data Analyst,Data Analyst,Ericsson,Other,,,,24-09-2026,FALSE,FALSE,,TRUE,NA
+2830210287,Data Analyst,Data Analyst,Amagi Media Labs,Bangalore,10,14,2,21-01-2022,TRUE,TRUE,12,FALSE,"Python, SQL"
+5902914866,Data Analyst,Data Analyst,HP,NA,,,,29-09-2026,FALSE,FALSE,,TRUE,NA
+5895065880,Data Analyst,Data Analyst,WPP,Chennai,,,,23-09-2026,FALSE,FALSE,,TRUE,NA
+5861219353,Data Analyst,Data Analyst,Esko,NA,,,,29-08-2026,TRUE,FALSE,,TRUE,Power BI
+5916869103,Data Analyst,Data Analyst,Hudson Data,NA,9,12,,07-10-2026,FALSE,TRUE,10.5,TRUE,NA
+5913668857,Data Analyst,Data Analyst,Mercuryo,NA,,,,06-10-2026,FALSE,FALSE,,TRUE,NA
+5861965986,Data Analyst,Data Analyst,Veralto,Bangalore,,,,30-08-2026,TRUE,FALSE,,TRUE,Power BI
+5882729136,Data Analyst,Data Analyst,Target,Bangalore,,,,13-09-2026,FALSE,FALSE,,TRUE,Business Intelligence
+1186076365,Data Analyst,Data Analyst,The Smart Cube,Noida,2,5,,20-06-2019,FALSE,TRUE,3.5,FALSE,NA
+5732584180,Data Analyst,Data Analyst,Acura Solution,NA,,,,18-05-2026,TRUE,FALSE,,TRUE,ETL
+5901481088,Data Analyst,Data Analyst,Headout,Bangalore,,,,28-09-2026,FALSE,FALSE,,TRUE,NA
+2953661450,Data Analyst,Data Analyst,Falcon Autotech,Noida,4,7,,08-03-2022,TRUE,TRUE,5.5,FALSE,"SQL, Excel, Power BI, Tableau"
+2177266370,Data Analyst,Data Analyst,Marktine,Bangalore,,15,,11-05-2021,TRUE,FALSE,,FALSE,"Excel, Power BI, Tableau, Data Visualization"
+5607196899,Data Analyst,Data Analyst,QAgile Services,NA,3,5,,31-01-2026,TRUE,TRUE,4,FALSE,"SQL, Power BI, Apache Spark, ETL"
+5520630121,Data Analyst,Data Analyst,Jobdost,Other,8,10,,01-12-2025,TRUE,TRUE,9,FALSE,SQL
+5111436575,Data Analyst,Data Analyst,Vector Labs Tech,NA,12,21,,26-03-2025,TRUE,TRUE,16.5,FALSE,"Statistics, Data Pipeline"
+4801598617,Data Analyst,Data Analyst,Intercept Pharmaceuticals,Bangalore,,,,31-07-2024,FALSE,FALSE,,FALSE,NA
+3679469504,Data Analyst,Data Analyst,Indium Software,Bangalore,1,15,2,11-11-2022,TRUE,TRUE,8,FALSE,"Python, SQL, Statistics"
+4988851226,Data Analyst,Data Analyst,Millions Advisory,Pune,5,17,5,25-12-2024,TRUE,TRUE,11,FALSE,"Python, SQL, AWS, Azure, Google Cloud, Linux"
+4344577959,Data Analyst,Data Analyst,Jobdost,Delhi,1,6,,02-10-2023,FALSE,TRUE,3.5,FALSE,NA
+4547502405,Data Analyst,Data Analyst,Cadila Zydus healthcare pvt ltd,NA,7,10,,28-01-2024,FALSE,TRUE,8.5,FALSE,NA
+2398472037,Data Analyst,Data Analyst,Azent Overseas,Mumbai,,7,,21-08-2021,TRUE,FALSE,,FALSE,Excel
+2346068207,Data Analyst,Data Analyst,Impact Guru,Mumbai,3,9,2,28-07-2021,FALSE,TRUE,6,FALSE,NA
+3025811339,Data Analyst,Data Analyst,Srijan Technologies,NA,,12,,05-04-2022,TRUE,FALSE,,FALSE,ETL
+2631733820,Data Analyst,Data Analyst,MedCords,Other,,2.5,,11-11-2021,TRUE,FALSE,,FALSE,Python
+1171507526,Data Analyst,Data Analyst,Ingrainhub,Bangalore,3,12,,05-06-2019,TRUE,TRUE,7.5,FALSE,"Python, SQL, Excel"
+1155089882,Data Analyst,Data Analyst,TechNex Technologies Private Limited,Pune,,,,17-05-2019,FALSE,FALSE,,FALSE,NA
+1353179357,Data Analyst,Data Analyst,PayU,Gurgaon,7,15,,27-11-2019,FALSE,TRUE,11,FALSE,NA
+1186010488,Data Analyst,Data Analyst,Dotball Interactive Private Limited,Bangalore,3,6,,20-06-2019,TRUE,TRUE,4.5,FALSE,"Python, SQL"
+2577819167,Data Analyst,Data Analyst,zyoin,Bangalore,5,21,,26-10-2021,TRUE,TRUE,13,FALSE,SQL
+2653476396,Data Analyst,Data Analyst,CIEL HR Services,Bangalore,,15,,18-11-2021,TRUE,FALSE,,FALSE,SQL
+3801594068,Data Analyst,Data Analyst,Talent500 by ANSR,Bangalore,10,30,,26-12-2022,FALSE,TRUE,20,FALSE,NA
+3189580389,Data Analyst,Data Analyst,Beauto Systems Private Limited,NA,1,5,3,02-06-2022,TRUE,TRUE,3,FALSE,"Python, SQL, Excel, Power BI, AWS, Linux, Data Visualization"
+1422966819,Data Analyst,Data Analyst,Yulu Bikes,Bangalore,7,12,,25-01-2020,TRUE,TRUE,9.5,FALSE,"Python, SQL, Pandas, NumPy"
+2821621318,Data Analyst,Data Analyst,Humanitus Learning Science and Consultancy Pvt Limited,NA,5,7,,18-01-2022,FALSE,TRUE,6,FALSE,NA
+1171509599,Data Analyst,Data Analyst,Rocket Kommerce,Bangalore,5,8,,05-06-2019,FALSE,TRUE,6.5,FALSE,NA
+5604419908,Data Analyst,Data Analyst,Talent Pro,Mumbai,8,12,2,29-01-2026,TRUE,TRUE,10,FALSE,"SQL, Excel"
+4874338703,Data Analyst,Data Analyst,Pluginlive,Mumbai,10,20,4,24-09-2024,FALSE,TRUE,15,FALSE,NA
+4411060128,Data Analyst,Data Analyst,Stanza Living,NA,6,9,,03-11-2023,FALSE,TRUE,7.5,FALSE,NA
+5211779275,Data Analyst,Data Analyst,Wissen Technology,Mumbai,,,5,23-05-2025,TRUE,FALSE,,FALSE,"Python, SQL, Power BI, Tableau"
+5531896486,Data Analyst,Data Analyst,Peak Hire Solutions,Bangalore,8,11,3,07-12-2025,TRUE,TRUE,9.5,FALSE,"SQL, Excel"
+5314053973,Data Analyst,Data Analyst,Fisdom,Bangalore,1,1,,21-07-2025,FALSE,TRUE,1,FALSE,NA
+5294954886,Data Analyst,Data Analyst,Multi Recruit,Bangalore,6.5,8.5,2,10-07-2025,TRUE,TRUE,7.5,FALSE,"SQL, Excel"
+4282822424,Data Analyst,Data Analyst,Recro,Bangalore,,,2,29-08-2023,TRUE,FALSE,,FALSE,"Python, SQL"
+5822435697,Data Analyst,Data Analyst,EXL,NA,,,2,31-07-2026,TRUE,FALSE,,TRUE,Statistics
+5849135074,Data Analyst,Data Analyst,Mindteck Limited,Bangalore,,,,20-08-2026,TRUE,FALSE,,TRUE,C#/.NET
+5850376549,Data Analyst,Data Analyst,TVS Credit Services,Lucknow,,,,21-08-2026,TRUE,FALSE,,TRUE,"Python, SQL, Tableau"
+5839221139,Data Analyst,Data Analyst,Tanla Platforms,Mumbai,,,,13-08-2026,TRUE,FALSE,,TRUE,"Excel, Tableau"
+5860541729,Data Analyst,Data Analyst,Pinkerton,Gurgaon,,,,29-08-2026,TRUE,FALSE,,TRUE,"Python, SQL, Excel, Tableau, Business Intelligence"
+5780531648,Data Analyst,Data Analyst,Tribute Technology,Hyderabad,,,,29-06-2026,FALSE,FALSE,,TRUE,NA
+5879144086,Data Analyst,Data Analyst,Vehant Technologies,Noida,,,2,11-09-2026,TRUE,FALSE,,TRUE,"Python, SQL, Excel"
+5876480361,Data Analyst,Data Analyst,C1,Hyderabad,,,,09-09-2026,FALSE,FALSE,,TRUE,NA
+5876478910,Data Analyst,Data Analyst,Caterpillar Inc,Other,,,,09-09-2026,TRUE,FALSE,,TRUE,Data Visualization
+5876480303,Data Analyst,Data Analyst,Red Hat,Pune,,,,09-09-2026,FALSE,FALSE,,TRUE,NA
+5879552231,Data Analyst,Data Analyst,Weekday AI,Bangalore,,,4,11-09-2026,FALSE,FALSE,,TRUE,NA
+5895065465,Data Analyst,Data Analyst,METRO/MAKRO,Pune,,,,23-09-2026,FALSE,FALSE,,TRUE,NA
+5894639200,Data Analyst,Data Analyst,Artech Infosystems Private Limited,Bangalore,,,,23-09-2026,TRUE,FALSE,,TRUE,"SQL, Excel, Power BI, Tableau, Data Visualization"
+5889532312,Data Analyst,Data Analyst,NA,Bangalore,,,,18-09-2026,TRUE,FALSE,,TRUE,C#/.NET
+5903797679,Data Analyst,Data Analyst,Tap Invest,Bangalore,3,5,,30-09-2026,FALSE,TRUE,4,TRUE,NA
+5727264729,Data Analyst,Data Analyst,Acura Solution,Mumbai,,,2,13-05-2026,TRUE,FALSE,,TRUE,"Python, SQL, Power BI, Tableau, Data Visualization"
+5894077788,Data Analyst,Data Analyst,Acura Solution,Delhi,,,,22-09-2026,FALSE,FALSE,,TRUE,NA
+5916892605,Data Analyst,Data Analyst,Grubbrr systems Pvt Ltd,Ahmedabad,3,9,,07-10-2026,FALSE,TRUE,6,TRUE,NA
+4686707449,Data Analyst,Data Analyst,NA,Mumbai,,,,10-05-2024,TRUE,FALSE,,FALSE,Excel
+4686704999,Data Analyst,Data Analyst,NA,Hyderabad,,,,10-05-2024,FALSE,FALSE,,FALSE,NA
+4686705015,Data Analyst,Data Analyst,NA,Chennai,,,,10-05-2024,FALSE,FALSE,,FALSE,NA
+4686706169,Data Analyst,Data Analyst,NA,Gurgaon,,,,10-05-2024,TRUE,FALSE,,FALSE,ETL
+5728422548,Data Analyst,Data Analyst,MM Staffing & Career Consultants,Mumbai,,,,14-05-2026,TRUE,FALSE,,TRUE,"Excel, Tableau"
+5916925170,Data Analyst,Data Analyst,Ayoconnect Technology,NA,4,10,,07-10-2026,FALSE,TRUE,7,TRUE,NA
+5918170808,Data Analyst,Data Analyst,Artech Infosystems Private Limited,NA,,,3,08-10-2026,TRUE,FALSE,,TRUE,"Python, SQL, Tableau, REST APIs, Business Intelligence"
+5636068235,Data Analyst,Data Analyst / Data Scientist,Weekday AI,NA,,,1,19-02-2026,FALSE,FALSE,,FALSE,NA
+5859054156,Data Analyst,Data Analyst / Data Engineer,Pavago,NA,,,,28-08-2026,TRUE,FALSE,,TRUE,"SQL, Business Intelligence"
+5912386667,Data Analyst,Data Analyst-Data Governance,IDFC FIRST Bank,Thane,,,,05-10-2026,FALSE,FALSE,,TRUE,NA
+5892808458,Data Analyst,Senior Data Analyst,Vrinda International,Chennai,13,17,,21-09-2026,TRUE,TRUE,15,TRUE,SQL
+4739597153,Data Analyst,Hr Data Analyst,"Opalforce, Inc.",Bangalore,,,2,16-06-2024,TRUE,FALSE,,FALSE,Excel
+5727816928,Data Analyst,Statistician/Data Analyst,Two95 International Inc.,NA,,,5,13-05-2026,TRUE,FALSE,,TRUE,Statistics
+5910115032,Data Analyst,Business Data Analyst,Weekday AI,NA,,,,03-10-2026,FALSE,FALSE,,TRUE,Business Intelligence
+5912846911,Data Analyst,Senior Data Analyst,Acme Services Private Limited,Gurgaon,7,8,,05-10-2026,TRUE,TRUE,7.5,TRUE,"SQL, Power BI, Tableau, Data Pipeline"
+5850375378,Data Analyst,Data Analyst Lead,TechnoGen,Hyderabad,,,,21-08-2026,FALSE,FALSE,,TRUE,NA
+5761791107,Data Analyst,Data Analyst Trainee,Lead India,Bangalore,,,0,13-06-2026,TRUE,FALSE,,TRUE,"Azure, Data Warehouse"
+5913461476,Data Analyst,Senior Data Analyst,Albertsons Companies India,Bangalore,,,6,06-10-2026,TRUE,FALSE,,TRUE,"SQL, Power BI, Tableau"
+5255506987,Data Scientist,Data Scientist,VyTCDC,Hyderabad,8,26,8,18-06-2025,TRUE,TRUE,17,FALSE,"Machine Learning, NLP"
+5905444031,Data Scientist,Data Scientist,VY Systems,Bangalore,10,15,5,01-10-2026,TRUE,TRUE,12.5,TRUE,"Python, Machine Learning, NLP, Generative AI"
+5912389047,Data Scientist,Data Scientist,Gravity Engineering Services Pvt Ltd,Delhi,6,35,1,05-10-2026,TRUE,TRUE,20.5,TRUE,"Python, SQL, Machine Learning, Scikit-learn, Pandas, Statistics"
+5879546648,Data Scientist,Data Scientist,NAM Info Pvt Ltd,Bangalore,7,15,,11-09-2026,TRUE,TRUE,11,TRUE,"Python, Machine Learning"
+5868707164,Data Scientist,Data Scientist,Vikash Technologies,Pune,15,34,4,03-09-2026,TRUE,TRUE,24.5,TRUE,"Python, SQL, AWS, Azure, Google Cloud, Machine Learning, Statistics"
+5917359868,Data Scientist,Data Scientist,Cummins,Pune,,,,07-10-2026,FALSE,FALSE,,TRUE,NA
+5501144903,Data Scientist,Data Scientist,Econolytics,Noida,18,24,,18-11-2025,TRUE,TRUE,21,FALSE,Machine Learning
+2773784069,Data Scientist,Data Scientist,SocialPrachar.com,Hyderabad,1.8,3,1,29-12-2021,TRUE,TRUE,2.4,FALSE,"Python, Git, Deep Learning, NLP"
+5404307320,Data Scientist,Data Scientist,Hashone careers,Bangalore,6,24,,18-09-2025,TRUE,TRUE,15,FALSE,"Machine Learning, Generative AI"
+5619816304,Data Scientist,Data Scientist,allps,Bangalore,,,,08-02-2026,FALSE,FALSE,,FALSE,NA
+5847823782,Data Scientist,Data Scientist,Appsierra Group,Pune,10,12,,19-08-2026,TRUE,TRUE,11,TRUE,Generative AI
+2830210485,Data Scientist,Data Science,Amagi Media Labs,Chennai,,,,21-01-2022,FALSE,FALSE,,FALSE,NA
+4801513932,Data Scientist,Data Scientist,Ittiam Systems,Bangalore,,,,31-07-2024,FALSE,FALSE,,FALSE,NA
+5447797233,Data Scientist,Data Scientist,VyTCDC,Bangalore,5,28,,15-10-2025,TRUE,TRUE,16.5,FALSE,Machine Learning
+4454322642,Data Scientist,Data Scientist,NextGen Invent Corporation,NA,3,20,1,28-11-2023,TRUE,TRUE,11.5,FALSE,Machine Learning
+5245553971,Data Scientist,Data Scientist,Rohini IT Consulting LLP,NA,12,40,4,12-06-2025,TRUE,TRUE,26,FALSE,"Python, Machine Learning, Deep Learning, Generative AI"
+5903790580,Data Scientist,Data Scientist,Weekday AI,Bangalore,,,10,30-09-2026,TRUE,FALSE,,TRUE,Machine Learning
+3262154912,Data Scientist,Data Scientist,Billeasy,Mumbai,5,9,5,26-06-2022,FALSE,TRUE,7,FALSE,NA
+5778142858,Data Scientist,Data Scientist,EXL,NA,,,2,27-06-2026,FALSE,FALSE,,TRUE,NA
+5916925156,Data Scientist,Data Scientist,Ather Energy,Bangalore,10,25,,07-10-2026,FALSE,TRUE,17.5,TRUE,NA
+2210352942,Data Scientist,Data Scientist,Marktine,Bangalore,5,24,,26-05-2021,TRUE,TRUE,14.5,FALSE,Machine Learning
+1171506806,Data Scientist,Data Scientist,WyngCommerce,Bangalore,9,15,,05-06-2019,TRUE,TRUE,12,FALSE,Machine Learning
+5120361336,Data Scientist,Data Scientist,Worldhire,NA,,,,01-04-2025,FALSE,FALSE,,FALSE,Business Intelligence
+4568246342,Data Scientist,Data Scientist,The Hub,NA,5,15,,14-02-2024,TRUE,TRUE,10,FALSE,"Machine Learning, Deep Learning, NLP"
+5510488082,Data Scientist,Data Scientist,Gururo,NA,,,,23-11-2025,FALSE,FALSE,,FALSE,NA
+5832768287,Data Scientist,Data Scientist,Gururo,Bangalore,,,,08-08-2026,FALSE,FALSE,,TRUE,NA
+3115911635,Data Scientist,Data Scientist,Impetus Technologies,Bangalore,10,35,,09-05-2022,TRUE,TRUE,22.5,FALSE,"Python, SQL, Machine Learning"
+2635526469,Data Scientist,Data Scientist,Fragma Data Systems,Chennai,,12,,12-11-2021,TRUE,FALSE,,FALSE,"Python, Docker, Machine Learning, NLP, TensorFlow, Scikit-learn, Pandas, REST APIs"
+5780509195,Data Scientist,Data Scientist,ParallelDots,NA,,,,29-06-2026,TRUE,FALSE,,TRUE,"Machine Learning, PyTorch"
+4521451905,Data Scientist,Data Scientist,Cubera Tech India Pvt Ltd,Bangalore,24,35,,12-01-2024,TRUE,TRUE,29.5,FALSE,Machine Learning
+5503838209,Data Scientist,Data Scientist,Rulesiq,Bangalore,,,3,20-11-2025,TRUE,FALSE,,FALSE,Machine Learning
+5890818992,Data Scientist,Data Scientist,Provenir,Bangalore,,,,19-09-2026,FALSE,FALSE,,TRUE,NA
+1837542039,Data Scientist,Data Scientist,Ad Astra Consultants,Bangalore,5,15,,22-11-2020,TRUE,TRUE,10,FALSE,Data Visualization
+5897176729,Data Scientist,Data Scientist,Quest Global,Bangalore,,,,24-09-2026,TRUE,FALSE,,TRUE,"Python, Azure, Machine Learning, Generative AI"
+2563331072,Data Scientist,Data Scientist,Exploro Solutions,Bangalore,10,40,,21-10-2021,TRUE,TRUE,25,FALSE,Machine Learning
+1161626852,Data Scientist,Data Scientist,PublicVibe,Hyderabad,1,3,0.6,24-05-2019,TRUE,TRUE,2,FALSE,"Python, Java, NLP, Apache Spark, Hadoop"
+5727242606,Data Scientist,Data Scientist,RECEX,Kolkata,,,5,13-05-2026,FALSE,FALSE,,TRUE,NA
+5857750971,Data Scientist,Data Scientist,Hindustan Unilever Hul,Mumbai,,,,27-08-2026,FALSE,FALSE,,TRUE,NA
+5871275635,Data Scientist,Data Scientist,Kanini Software Solutions,Bangalore,,,,05-09-2026,TRUE,FALSE,,TRUE,"Python, Azure, Machine Learning, NLP, Generative AI"
+5871275574,Data Scientist,Data Scientist,Kanini Software Solutions,Pune,,,,05-09-2026,TRUE,FALSE,,TRUE,"Python, Azure, Machine Learning, NLP, Generative AI"
+5906994028,Data Scientist,Data Scientist,Infosys Limited,Hyderabad,,,,02-10-2026,TRUE,FALSE,,TRUE,"Machine Learning, Generative AI"
+5851151245,Data Scientist,Data Scientist,Delhi,Mumbai,,,,21-08-2026,TRUE,FALSE,,TRUE,"Machine Learning, NLP, Generative AI"
+4597331170,Data Scientist,Data Scientist,Carrier,Hyderabad,,,,07-03-2024,FALSE,FALSE,,FALSE,NA
+5838428692,Data Scientist,Data Scientist,UptimeAI,Bangalore,,,,12-08-2026,FALSE,FALSE,,TRUE,NA
+2077170837,Data Scientist,Data Scientist,Success Pact,Bangalore,8,22,,26-03-2021,FALSE,TRUE,15,FALSE,NA
+5912391278,Data Scientist,Data Scientist,Ford Motor Company,Chennai,,,,05-10-2026,TRUE,FALSE,,TRUE,"Machine Learning, Generative AI"
+2453704584,Data Scientist,Data Scientist,CarWale,Mumbai,5,15,,13-09-2021,FALSE,TRUE,10,FALSE,NA
+3468848513,Data Scientist,Data Scientist,Jobdost,Noida,15,40,2,08-09-2022,TRUE,TRUE,27.5,FALSE,"Python, Machine Learning, Deep Learning, NLP, TensorFlow, PyTorch, Hadoop, Statistics"
+4514376308,Data Scientist,Data Scientist,Qrata,Hyderabad,17,35,2,07-01-2024,TRUE,TRUE,26,FALSE,"Machine Learning, Deep Learning, NLP, Statistics"
+5836227791,Business Analyst,Business Analyst,CODEMONK,NA,6,8,,11-08-2026,TRUE,TRUE,7,TRUE,Generative AI
+5897308785,Business Analyst,Business Analyst,Kavi Software Technologies Private Limited,Chennai,,,10,25-09-2026,FALSE,FALSE,,TRUE,NA
+5917567174,Business Analyst,Business Analyst,Proof of Skill,Hyderabad,3.5,3.5,,08-10-2026,FALSE,TRUE,3.5,TRUE,NA
+5904502834,Business Analyst,Business Analyst,Papigen,NA,10,15,5,01-10-2026,FALSE,TRUE,12.5,TRUE,NA
+4725867393,Business Analyst,Business Analyst,"Opalforce, Inc.",Bangalore,,,,07-06-2024,FALSE,FALSE,,FALSE,NA
+5849257585,Business Analyst,Business Analyst,Arena Investors I Quaestor Advisors,NA,,,,20-08-2026,FALSE,FALSE,,TRUE,Data Warehouse
+5912846915,Business Analyst,Business Analyst,Acme Services Private Limited,NA,24,25,,05-10-2026,FALSE,TRUE,24.5,TRUE,NA
+5894315058,Business Analyst,Business Analyst,Acumatica,NA,,,,23-09-2026,FALSE,FALSE,,TRUE,NA
+5850376076,Business Analyst,Business Analyst/ Senior Business Analyst,Egon Zehnder,Gurgaon,,,,21-08-2026,FALSE,FALSE,,TRUE,NA
+1509166858,Business Analyst,Business Analyst,Lincode Labs India Pvt Ltd,Bangalore,4,8,,31-03-2020,FALSE,TRUE,6,FALSE,NA
+5890798642,Business Analyst,Business Analyst,NewVison,NA,,,,19-09-2026,FALSE,FALSE,,TRUE,NA
+5040689008,Business Analyst,Business Analyst,ProPMO Services Private Limited,Bangalore,4,8,4,07-02-2025,FALSE,TRUE,6,FALSE,NA
+4801532684,Business Analyst,Business Analyst,NA,NA,,,,31-07-2024,FALSE,FALSE,,FALSE,NA
+5909807248,Business Analyst,Business Analyst,Gravity Engineering Services Pvt Ltd,Delhi,4,20,1,03-10-2026,TRUE,TRUE,12,TRUE,SQL
+5337950212,Business Analyst,Business Analyst,Wissen Technology,Hyderabad,,,5,05-08-2025,TRUE,FALSE,,FALSE,SQL
+4686706417,Business Analyst,Business Analyst,NA,Noida,,,,10-05-2024,FALSE,FALSE,,FALSE,NA
+3166190744,Business Analyst,Business Analyst,PopcornApps,Hyderabad,2,10,3,25-05-2022,FALSE,TRUE,6,FALSE,NA
+1788701062,Business Analyst,Business Analyst,Presidency University,Bangalore,,5,,29-10-2020,FALSE,FALSE,,FALSE,NA
+5830599367,Business Analyst,Business Analyst,In Touch,Hyderabad,,,,06-08-2026,FALSE,FALSE,,TRUE,Business Intelligence
+5859120974,Business Analyst,Business Analyst,CIMET,Jaipur,,,,28-08-2026,FALSE,FALSE,,TRUE,NA
+3710148607,Business Analyst,Business Analyst,Mithra Global,Mumbai,12,13,,22-11-2022,FALSE,TRUE,12.5,FALSE,NA
+5727082142,Business Analyst,Business Analyst,MM Staffing & Career Consultants,Bangalore,9,9,3,13-05-2026,FALSE,TRUE,9,TRUE,NA
+5889523406,Business Analyst,Business Analyst,Manras,Noida,,,3,18-09-2026,FALSE,FALSE,,TRUE,NA
+5859124842,Business Analyst,Business Analyst,Proarch Technology Services,Kolkata,,,,28-08-2026,FALSE,FALSE,,TRUE,NA
+5503836817,Business Analyst,Business Analyst,Vision Infotech,Surat,,,,20-11-2025,FALSE,FALSE,,FALSE,NA
+2609531597,Business Analyst,Business Analyst,Texila American University,Coimbatore,,7,,04-11-2021,FALSE,FALSE,,FALSE,NA
+5719182260,Business Analyst,Business Analyst,Redfoxa Careerlink Pvt Ltd,Bangalore,4,4.5,,05-05-2026,FALSE,TRUE,4.25,TRUE,NA
+4755979420,Business Analyst,Business Analysts,Money Honey Financial Services Private Limited,Mumbai,3,10,,28-06-2024,FALSE,TRUE,6.5,FALSE,NA
+3266737478,Business Analyst,Business Analyst,Sigma Infosolutions,Bangalore,12,15,,28-06-2022,FALSE,TRUE,13.5,FALSE,NA
+5728412938,Business Analyst,Business Analyst,Acura Solution,Delhi,,,5,14-05-2026,TRUE,FALSE,,TRUE,Excel
+5861795571,Business Analyst,Business Analyst,COTIVITI,Pune,,,,30-08-2026,FALSE,FALSE,,TRUE,NA
+1171506747,Business Analyst,Business Analyst,Ixora Global Services,Gurgaon,,,6,05-06-2019,FALSE,FALSE,,FALSE,NA
+5255506980,Business Analyst,Business Analyst,NeoGenCode Technologies Pvt Ltd,NA,10,22,5,18-06-2025,FALSE,TRUE,16,FALSE,NA
+5849525633,Business Analyst,Business Analyst,Nexuslink Services India Pvt ltd,Ahmedabad,4.5,7,3,20-08-2026,FALSE,TRUE,5.75,TRUE,NA
+5902987743,Business Analyst,Business Analyst,Softcrayons IT Education,Other,,,0,29-09-2026,TRUE,FALSE,,TRUE,Excel
+5799557395,Business Analyst,Business Analyst,VDart,Other,,,0,14-07-2026,FALSE,FALSE,,TRUE,NA
+3433222166,Business Analyst,Business Analyst,Myrsa Technology Solutions,Thane,3,5,,26-08-2022,FALSE,TRUE,4,FALSE,NA
+2583051695,Business Analyst,Business Analyst,IRIS BUSINESS SERVICES LIMITED,Mumbai,,6,2,27-10-2021,FALSE,FALSE,,FALSE,NA
+5856942808,Business Analyst,Business Analyst,Blackbaud,NA,,,,26-08-2026,FALSE,FALSE,,TRUE,NA
+4794473965,Business Analyst,Business Analyst,Vmultiply solutions,Noida,2,4,,25-07-2024,FALSE,TRUE,3,FALSE,NA
+5120355680,Business Analyst,Business Analyst,Talhive,Bangalore,,,,01-04-2025,TRUE,FALSE,,FALSE,Excel
+3502543793,Business Analyst,Business Analyst,Wolken Software,Bangalore,15,25,,20-09-2022,FALSE,TRUE,20,FALSE,NA
+4091518943,Business Analyst,Business Analyst,Ebizz Infotech,Surat,1.2,3,,10-05-2023,FALSE,TRUE,2.1,FALSE,NA
+5850378534,Business Analyst,Business Analyst,Olam International,Chennai,,,,21-08-2026,FALSE,FALSE,,TRUE,NA
+5905911400,Business Analyst,Business Analyst,IBS Software,NA,,,7,01-10-2026,FALSE,FALSE,,TRUE,NA
+5916869225,Business Analyst,Business Analyst,Innover Systems,Pune,6,10,4,07-10-2026,FALSE,TRUE,8,TRUE,NA
+5916868600,Business Analyst,Business Analyst,Dynarex Technologies PvtLtd,Other,7,9,3,07-10-2026,FALSE,TRUE,8,TRUE,NA
+5728332881,Business Analyst,Business Analyst,Acura Solution,Gurgaon,,,12,14-05-2026,FALSE,FALSE,,TRUE,NA
+5015650325,Business Analyst,Business Analyst,Forerunner Consultancy Services,Pune,,,,18-01-2025,FALSE,FALSE,,FALSE,NA
+5699259929,Business Analyst,Business Analyst,EXL,NA,,,,15-04-2026,FALSE,FALSE,,TRUE,NA
+5329708622,Business Analyst,Business Analyst,Topcoder,Noida,,,,31-07-2025,TRUE,FALSE,,FALSE,"Excel, Power BI"
+5861792577,Business Analyst,Business Analyst,Talodyn Networks Private Limited,Bangalore,,,6,30-08-2026,FALSE,FALSE,,TRUE,NA
+5889601489,Business Analyst,Business Analyst,MedTourEasy,NA,6,6,0,18-09-2026,FALSE,TRUE,6,TRUE,NA
+4686706474,Business Analyst,Business Analyst,NA,Chennai,,,,10-05-2024,FALSE,FALSE,,FALSE,NA
+5727143893,Business Analyst,Business Analyst,Mantras2Success,Other,6,6,,13-05-2026,FALSE,TRUE,6,TRUE,NA
+5877296390,Business Analyst,Business Analyst,Cassini Systems,Chennai,,,,09-09-2026,FALSE,FALSE,,TRUE,NA
+5336689187,Business Analyst,Business Analysts,EWU,Kochi,2,3,,04-08-2025,TRUE,TRUE,2.5,FALSE,"SQL, Excel, Power BI"
+3911379858,Business Analyst,Business Analyst,Codebuddy Pvt. Ltd.,Kolkata,3,4,,08-02-2023,FALSE,TRUE,3.5,FALSE,NA
+3592404194,Business Analyst,Business Analyst,HyreSpree,Hyderabad,15,20,5,16-10-2022,TRUE,TRUE,17.5,FALSE,"SQL, JavaScript, React, HTML/CSS"
+5842569972,Business Analyst,Business Analyst,Ara Resources Private Limited,Bangalore,,,,15-08-2026,FALSE,FALSE,,TRUE,NA
+5876949328,Business Analyst,Business Analyst,Ethics Infotech,Vadodara,,,,09-09-2026,FALSE,FALSE,,TRUE,NA
+5822020256,Business Analyst,Business Analyst,iprogrammer,Pune,,,,31-07-2026,FALSE,FALSE,,TRUE,NA
+4855312747,Business Analyst,Business Analyst,Litpix Studio Private Limited,Jaipur,2,4,,07-09-2024,FALSE,TRUE,3,FALSE,NA
+2933962322,Business Analyst,Business Analyst,Unnati,Delhi,7,8,,01-03-2022,FALSE,TRUE,7.5,FALSE,NA
+5750260075,Business Analyst,Business Analyst,NebuLogic Technologies,Hyderabad,8,12,,03-06-2026,FALSE,TRUE,10,TRUE,NA
+5850380679,Business Analyst,Business Analyst,Velocis Systems Private Limited,NA,,,5,21-08-2026,FALSE,FALSE,,TRUE,NA
+5861243168,Business Analyst,Business Analyst,Right Advisors,Bangalore,6,6,,29-08-2026,FALSE,TRUE,6,TRUE,NA
+5722083454,Business Analyst,Business Analyst,Emids,NA,,,,08-05-2026,FALSE,FALSE,,TRUE,NA
+5854880424,Business Analyst,Business Analyst,Apex 2000,Bangalore,,,,25-08-2026,FALSE,FALSE,,TRUE,NA
+5854880420,Business Analyst,Business Analyst,Apex 2000,Kolkata,,,,25-08-2026,FALSE,FALSE,,TRUE,NA
+5854880417,Business Analyst,Business Analyst,Apex 2000,Pune,,,,25-08-2026,FALSE,FALSE,,TRUE,NA
+5860533598,Business Analyst,Business Analyst,Binary Semantics Limited,Gurgaon,,,,29-08-2026,TRUE,FALSE,,TRUE,Machine Learning
+5846911659,Business Analyst,Business Analyst,Financial Services,NA,6,6,2,18-08-2026,FALSE,TRUE,6,TRUE,NA
+4386562594,Business Analyst,Business Analyst,RadicalStart Infolab Private Limted,Other,2,3,,22-10-2023,FALSE,TRUE,2.5,FALSE,NA
+5882108582,Business Analyst,Business Analyst,ascendion,Pune,,,,13-09-2026,FALSE,FALSE,,TRUE,NA
+5901482445,Business Analyst,Business Analyst,Ford Motor Company,Chennai,,,,28-09-2026,FALSE,FALSE,,TRUE,NA
+4801519596,Business Analyst,Business Analyst,Miro,Chennai,,,,31-07-2024,FALSE,FALSE,,FALSE,NA
+2766491353,Business Analyst,Business Analyst,DIGITAL BRAIN MEDIA,Lucknow,,6,2,25-12-2021,FALSE,FALSE,,FALSE,NA
+5754832051,Business Analyst,Business Analyst,All Generation Tech,Hyderabad,,,3,07-06-2026,FALSE,FALSE,,TRUE,NA
+5916866843,Business Analyst,Business Analyst,Amukha Technologies Private Limited,Mumbai,6,12,,07-10-2026,FALSE,TRUE,9,TRUE,NA
+5239552785,Business Analyst,Business Analyst,layer tech IT solutions,Hyderabad,3,5,1,08-06-2025,FALSE,TRUE,4,FALSE,NA
+5728328959,Business Analyst,Business Analyst,Acura Solution,Mumbai,,,,14-05-2026,FALSE,FALSE,,TRUE,NA
+5819881302,Business Analyst,Business Analyst,GetixHealth,Bangalore,,,,29-07-2026,FALSE,FALSE,,TRUE,NA
+5860541645,Business Analyst,Business Analyst,Aurionpro,Mumbai,,,,29-08-2026,FALSE,FALSE,,TRUE,NA
+5871275629,Business Analyst,Business Analyst,Kanini Software Solutions,Other,,,,05-09-2026,FALSE,FALSE,,TRUE,NA
+4964034326,Business Analyst,Business Analyst,TIGI HR Solution Pvt. Ltd.,Ahmedabad,1,5,,05-12-2024,FALSE,TRUE,3,FALSE,NA
+3064219213,Business Analyst,Business Analyst,Natalie Consultants,NA,8,14,3,20-04-2022,FALSE,TRUE,11,FALSE,NA
+3032213576,Business Analyst,Business Analyst,Unnati,Pune,,12,,07-04-2022,FALSE,FALSE,,FALSE,NA
+2048958856,Business Analyst,Business Analyst.,Andesoft Consulting,Mumbai,,15,,13-03-2021,FALSE,FALSE,,FALSE,NA
+3048034030,Business Analyst,Business Analyst,GreedyGame,Bangalore,4,12,1,13-04-2022,FALSE,TRUE,8,FALSE,NA
+2468164053,Business Analyst,Business Analyst,Aureus Tech Systems,Hyderabad,7.5,22,,18-09-2021,FALSE,TRUE,14.75,FALSE,NA
+5879144121,Business Analyst,Business Analyst,Movate Technologies,Chennai,,,,11-09-2026,FALSE,FALSE,,TRUE,NA
+5889085832,Business Analyst,Business Analyst,Endava,Bangalore,,,,18-09-2026,FALSE,FALSE,,TRUE,NA
+5042641487,Business Analyst,Business Analyst,Affine,Bangalore,,,,08-02-2025,TRUE,FALSE,,FALSE,"SQL, Excel, Tableau, Statistics"
+2330850843,Business Analyst,Business Analyst,Recruiting India,Chennai,12,14,8,20-07-2021,FALSE,TRUE,13,FALSE,NA
+5211779262,Business Analyst,Business Analyst,Wissen Technology,Bangalore,6,24,6,23-05-2025,TRUE,TRUE,15,FALSE,SQL
+5859117805,Business Analyst,Business Analyst,Evalueserve.com Private Limited,Gurgaon,,,10,28-08-2026,TRUE,FALSE,,TRUE,"SQL, Oracle"
+5861793633,Business Analyst,Business Analyst,Prgx India,Pune,,,,30-08-2026,TRUE,FALSE,,TRUE,"SQL, Power BI, Tableau, Data Visualization"
+4686706662,Business Analyst,Business Analyst,NA,Gurgaon,,,,10-05-2024,FALSE,FALSE,,FALSE,NA
+4946581659,Business Analyst,Business Analyst,Merck,NA,,,,21-11-2024,FALSE,FALSE,,FALSE,NA
+5862891684,Business Analyst,Business Analyst,ADCI - BLR 14 SEZ - F07,Bangalore,,,,31-08-2026,FALSE,FALSE,,TRUE,NA
+5889516777,Business Analyst,Business Analyst,Cityscope,Mumbai,,,,18-09-2026,FALSE,FALSE,,TRUE,NA
+3632177861,Business Analyst,Business Analyst,White Collar Org,Jaipur,4,12,4,28-10-2022,FALSE,TRUE,8,FALSE,NA
+2742136028,Business Analyst,Business Analyst,Krish Technolabs,Ahmedabad,,7,,16-12-2021,FALSE,FALSE,,FALSE,NA
+2853928094,Business Analyst,Business Analyst,Multi Recruit,Bangalore,,15,,30-01-2022,FALSE,FALSE,,FALSE,NA
+5851865180,Business Analyst,Business Analyst,HealthAsyst,Bangalore,,,4,22-08-2026,TRUE,FALSE,,TRUE,"Power BI, Tableau"
+4686707823,Business Analyst,Business Analyst,NA,Thane,,,,10-05-2024,FALSE,FALSE,,FALSE,NA
+5859121332,Business Analyst,Business Analyst,Mastermind Network,Bangalore,,,,28-08-2026,FALSE,FALSE,,TRUE,NA
+4686707327,Business Analyst,Business Analyst,NA,Delhi,,,3,10-05-2024,FALSE,FALSE,,FALSE,NA
+5773939132,Business Analyst,Business Analyst,Vistex Career,Hyderabad,,,,24-06-2026,FALSE,FALSE,,TRUE,NA
+5840375788,Business Analyst,Business Analyst,Saxo Bank,NA,,,,13-08-2026,FALSE,FALSE,,TRUE,NA
+5917382696,Business Analyst,Business Analyst,Engineering-Business Analysis & Solutions,Jaipur,,,8,07-10-2026,FALSE,FALSE,,TRUE,NA
+5266460273,Business Analyst,Business Analyst,TIGI HR Solution Pvt. Ltd.,Bangalore,10,15,6,25-06-2025,FALSE,TRUE,12.5,FALSE,NA
+2478113152,Business Analyst,Business Analyst,i-Lanam Technologies,Ahmedabad,,2,,22-09-2021,FALSE,FALSE,,FALSE,NA
+4596884484,Business Analyst,Business Analyst,UpSolve Solutions LLP,Mumbai,4,8,,07-03-2024,FALSE,TRUE,6,FALSE,NA
+5842589806,Business Analyst,Business Analyst,ExcelSoft Technologies,Other,,,,15-08-2026,FALSE,FALSE,,TRUE,NA
+5899550146,Business Analyst,Business Analyst,Weekday AI,Hyderabad,,,8,26-09-2026,FALSE,FALSE,,TRUE,NA
+5900348941,Business Analyst,Business Analyst,StoneX,Pune,,,,27-09-2026,FALSE,FALSE,,TRUE,NA
+2384737427,Business Analyst,Business Analyst,Cibirix,Indore,4,7,,15-08-2021,FALSE,TRUE,5.5,FALSE,NA
+2050583377,Business Analyst,Business Analyst,Ally Software LLP,Bangalore,,,1,14-03-2021,FALSE,FALSE,,FALSE,NA
+5889511359,Business Analyst,Business Analyst,Artiset,Noida,,,,18-09-2026,TRUE,FALSE,,TRUE,"Excel, Power BI"
+4514376922,Business Analyst,Business Analyst,Qrata,Bangalore,,18,2,07-01-2024,TRUE,FALSE,,FALSE,"Python, Excel, MySQL"
+3827529616,Business Analyst,Business Analyst-,KiwiTech,Noida,7,12,,06-01-2023,FALSE,TRUE,9.5,FALSE,NA
+5804688818,Business Analyst,Business Analyst,Risosu Consulting LLP,Mumbai,3,6,2,17-07-2026,FALSE,TRUE,4.5,TRUE,NA
+5842590099,Business Analyst,Business Analyst,Agiliad Technologies,Pune,,,,15-08-2026,FALSE,FALSE,,TRUE,NA
+5848055985,Business Analyst,Business Analyst,Resources Valley,Jaipur,10,18,,19-08-2026,FALSE,TRUE,14,TRUE,NA
+5871237912,Business Analyst,Business Analyst,Decipher zone technologies,NA,,,,05-09-2026,FALSE,FALSE,,TRUE,NA
+5829186617,Business Analyst,Business Analyst,Amazon,NA,,,,05-08-2026,FALSE,FALSE,,TRUE,NA
+5880845469,Business Analyst,Business Analyst,Metron Security Private Limited,Pune,,,,12-09-2026,FALSE,FALSE,,TRUE,NA
+5905895774,Business Analyst,Business Analyst,Accenture,NA,,,7.5,01-10-2026,TRUE,FALSE,,TRUE,"SQL, Oracle"
+5828761379,Business Analyst,Business Analyst,Amazon,Bangalore,,,,05-08-2026,FALSE,FALSE,,TRUE,NA
+5913998275,Business Analyst,Business Analyst,MassMutual,NA,,,,06-10-2026,FALSE,FALSE,,TRUE,NA
+2946429834,Business Analyst,Business Analyst,Unnati,NA,12,14,,05-03-2022,FALSE,TRUE,13,FALSE,NA
+5585713662,Business Analyst,Business Analyst,Gieom Business Solutions Pvt Ltd,NA,6,7,1,15-01-2026,FALSE,TRUE,6.5,FALSE,NA
+3651750767,Business Analyst,Business Analyst,iThink Logistics,Mumbai,1.8,2,,03-11-2022,FALSE,TRUE,1.9,FALSE,NA
+4120526848,Business Analyst,Business Analyst,Kapture CX,Bangalore,4,8,3,27-05-2023,FALSE,TRUE,6,FALSE,NA
+5850376959,Business Analyst,Business Analyst,VT Netzwelt,Ahmedabad,,,,21-08-2026,FALSE,FALSE,,TRUE,NA
+5832769922,AI Engineer,Ai Engineer,Leadrat,Bangalore,9.6,12,2,08-08-2026,TRUE,TRUE,10.8,TRUE,Generative AI
+5814756829,AI Engineer,Ai Engineering,Arohana Tech Solutions Private Limited,Bangalore,15,19.8,3,25-07-2026,TRUE,TRUE,17.4,TRUE,Generative AI
+5904171651,AI Engineer,Ai Engineer,Whopper Technologies,Hyderabad,,,,30-09-2026,TRUE,FALSE,,TRUE,Machine Learning
+5894232764,AI Engineer,Ai Engineer,Alignity Solutions,Hyderabad,,,,22-09-2026,FALSE,FALSE,,TRUE,NA
+5866083997,AI Engineer,Ai Engineer,Art Technology and Software India Pvt Ltd,Kochi,4.8,7,2,02-09-2026,TRUE,TRUE,5.9,TRUE,Machine Learning
+5835817647,AI Engineer,Ai Engineer,Capgemini,NA,,,,10-08-2026,FALSE,FALSE,,TRUE,NA
+5835817646,AI Engineer,Ai Engineer,Capgemini,Hyderabad,,,,10-08-2026,FALSE,FALSE,,TRUE,NA
+5872530387,AI Engineer,Ai Engineer,Photonx technologies pvt ltd,Hyderabad,12,24,,06-09-2026,TRUE,TRUE,18,TRUE,Generative AI
+5903436877,AI Engineer,Ai Engineer,REDICA Systems,Bangalore,,,,30-09-2026,FALSE,FALSE,,TRUE,NA
+5805537188,AI Engineer,Ai Engineer,Kuku FM,Mumbai,12,20,,18-07-2026,FALSE,TRUE,16,TRUE,NA
+5859083849,AI Engineer,Ai Engineer,NextNation,Bangalore,3.6,4.2,1.5,28-08-2026,FALSE,TRUE,3.9,TRUE,NA
+5896946323,AI Engineer,Ai Engineer,Keywords Studios,NA,,,,24-09-2026,FALSE,FALSE,,TRUE,NA
+5810904593,AI Engineer,Ai Engineer,AION,NA,,,,22-07-2026,FALSE,FALSE,,TRUE,NA
+5769457291,AI Engineer,Ai Engineer,SAP Fioneer,NA,,,,19-06-2026,FALSE,FALSE,,TRUE,NA
+5781056559,AI Engineer,Ai Engineer,Virallens,NA,,,3,29-06-2026,TRUE,FALSE,,TRUE,Generative AI
+5904171728,AI Engineer,Ai Engineer,Trigent Software Private Limited,Mumbai,15,18,,30-09-2026,TRUE,TRUE,16.5,TRUE,"Python, SQL, PostgreSQL, Generative AI, REST APIs, Snowflake, FastAPI, Flask"
+5910342214,AI Engineer,Ai Engineer,Weekday AI,NA,,,,03-10-2026,FALSE,FALSE,,TRUE,NA
+5899028961,AI Engineer,Ai Engineer,viraaj hr solutions,Bangalore,10,30,,26-09-2026,TRUE,TRUE,20,TRUE,"Machine Learning, Generative AI"
+5902068203,AI Engineer,Ai Engineer,GeekSoft Consulting,Bangalore,,,,29-09-2026,TRUE,FALSE,,TRUE,Python
+5914176610,AI Engineer,Ai Engineer / Senior Ai Engineer,Blue Matter,NA,,,,06-10-2026,FALSE,FALSE,,TRUE,NA
+5842763538,AI Engineer,"Senior Ai Engineer, Ai Engineering",Mastercard,Pune,,,,15-08-2026,FALSE,FALSE,,TRUE,NA
+5884512245,AI Engineer,Ai Engineer,Mopid,NA,,,,15-09-2026,FALSE,FALSE,,TRUE,NA
+5743210191,AI Engineer,Ai Engineer,NeoGenCode Technologies Pvt Ltd,Mumbai,6,12,2,28-05-2026,FALSE,TRUE,9,TRUE,NA
+5912051699,AI Engineer,Ai Engineer,Infosys Limited,Bangalore,,,,05-10-2026,TRUE,FALSE,,TRUE,"Python, SQL, NLP"
+5898178892,AI Engineer,Ai Engineer,Hr Actowiz Solutions,Ahmedabad,,,3,25-09-2026,FALSE,FALSE,,TRUE,NA
+5890494699,AI Engineer,Ai Engineer,Unico Connect Private Limited,Mumbai,,,2,19-09-2026,FALSE,FALSE,,TRUE,NA
+5871776271,AI Engineer,Ai Engineer,NAM Info Pvt Ltd,Hyderabad,6,14,,05-09-2026,FALSE,TRUE,10,TRUE,NA
+5898505035,AI Engineer,Ai Engineer,CGI,NA,,,5,25-09-2026,TRUE,FALSE,,TRUE,Machine Learning
+5842544539,AI Engineer,Ai Engineer,Jothishi Online and Advertising Services Private Limited,Bangalore,,,,15-08-2026,TRUE,FALSE,,TRUE,Generative AI
+5905444126,AI Engineer,Ai Engineer,Vikash Technologies,Pune,15,40,5,01-10-2026,TRUE,TRUE,27.5,TRUE,"Python, AWS, Azure, Google Cloud, Generative AI"
+5887520851,AI Engineer,Ai Engineer,LevelShift,Chennai,,,,17-09-2026,TRUE,FALSE,,TRUE,Generative AI
+5906945792,AI Engineer,Ai Engineer,JobTrade,Ahmedabad,,,,02-10-2026,TRUE,FALSE,,TRUE,Machine Learning
+5892944978,AI Engineer,Ai Engineer,Manufacturing,Pune,,,7,21-09-2026,TRUE,FALSE,,TRUE,"Azure, Machine Learning"
+5440535892,AI Engineer,Ai Engineer,Reliableteamai,NA,2,24,,10-10-2025,TRUE,TRUE,13,FALSE,"Python, Generative AI"
+5755733078,AI Engineer,Ai Engineer,All Generation Tech,Hyderabad,,,3,08-06-2026,FALSE,FALSE,,TRUE,NA
+5816818535,AI Engineer,Ai Engineer,Ecolab,NA,,,2,27-07-2026,TRUE,FALSE,,TRUE,Generative AI
+5892348543,AI Engineer,Ai Engineer,Arting Digital Private Limited,Noida,,,7,21-09-2026,TRUE,FALSE,,TRUE,"Python, Machine Learning, Pandas"
+5536716700,AI Engineer,Ai Engineer,BayRockLabs Open Requisitions,NA,,,,11-12-2025,TRUE,FALSE,,FALSE,"Python, FastAPI"
+5878284745,AI Engineer,Ai Engineer,Vivantify Technology Solutions India Pvt. Ltd.,Coimbatore,,,5,10-09-2026,TRUE,FALSE,,TRUE,"Python, Azure, Generative AI"
+5496729188,AI Engineer,Ai Engineer,Supaboard,Bangalore,10,16,2,15-11-2025,TRUE,TRUE,13,FALSE,"Python, TypeScript"
+5756865489,AI Engineer,Ai Engineer,Antal International,Pune,25,30,,09-06-2026,TRUE,TRUE,27.5,TRUE,"Python, Git, Apache Spark, Generative AI, Data Pipeline"
+5917366150,AI Engineer,Ai Engineer,Fiserv,NA,,,,07-10-2026,FALSE,FALSE,,TRUE,NA
+5910230730,AI Engineer,Ai Engineer,Jobgether,NA,,,,03-10-2026,FALSE,FALSE,,TRUE,NA
+5492760936,AI Engineer,Ai Engineer,NeoGenCode Technologies Pvt Ltd,Bangalore,15,22,3,13-11-2025,TRUE,TRUE,18.5,FALSE,Generative AI
+5136197762,AI Engineer,Ai Engineer,BigRio,Chennai,25,30,,09-04-2025,TRUE,TRUE,27.5,FALSE,"NLP, Generative AI"
+5890776089,AI Engineer,Ai Engineer,Cornerstone OnDemand,Hyderabad,,,,19-09-2026,FALSE,FALSE,,TRUE,NA
+5869183637,AI Engineer,Ai - Engineer,CorroHealth,Noida,,,,03-09-2026,FALSE,FALSE,,TRUE,NA
+5897050691,AI Engineer,Ai - Engineer,CorroHealth,NA,,,,24-09-2026,FALSE,FALSE,,TRUE,NA
+5851860937,AI Engineer,Ai Engineer,Franklin Templeton,Hyderabad,,,,22-08-2026,TRUE,FALSE,,TRUE,Generative AI
+5844304276,AI Engineer,Ai Engineer,G2,Bangalore,,,,16-08-2026,FALSE,FALSE,,TRUE,NA
+5897061653,AI Engineer,Ai Engineer,Mobility Global,NA,,,,24-09-2026,FALSE,FALSE,,TRUE,NA
+5907466451,AI Engineer,Ai Engineer,LogicMonitor,Bangalore,,,,02-10-2026,FALSE,FALSE,,TRUE,NA
+5390148034,AI Engineer,Ai Engineer,Recruit Square,NA,6,9,,09-09-2025,TRUE,TRUE,7.5,FALSE,"NLP, Generative AI"
+5768487931,AI Engineer,Ai Engineer,Airbus,NA,,,,19-06-2026,FALSE,FALSE,,TRUE,NA
+5857746621,AI Engineer,Ai Engineer,Square Yards,Mumbai,,,,27-08-2026,TRUE,FALSE,,TRUE,Generative AI
+5503837716,AI Engineer,Ai Engineer,MyData Insights Private Limited,Bangalore,,,5,20-11-2025,TRUE,FALSE,,FALSE,Azure
+5233829844,AI Engineer,Ai Engineer,Talent Socio Bizcon LLP,Pune,18,30,,05-06-2025,TRUE,TRUE,24,FALSE,"Python, TensorFlow, PyTorch"
+5396098422,AI Engineer,Ai Engineer,The Search House,Bangalore,,,3,12-09-2025,TRUE,FALSE,,FALSE,"NLP, Generative AI"
+4405592258,AI Engineer,Ai Engineer,Gyrus AI Private Limited,Bangalore,8,20,,01-11-2023,TRUE,TRUE,14,FALSE,"Python, Machine Learning, TensorFlow, PyTorch, Business Intelligence"
+5677793262,AI Engineer,Ai Engineer,iDreamCareercom,Delhi,10,18,1,25-03-2026,FALSE,TRUE,14,FALSE,NA
+5833604544,AI Engineer,Ai Engineer,Collinson Loyalty & Benefits,Mumbai,,,,08-08-2026,FALSE,FALSE,,TRUE,NA
+5854877584,AI Engineer,Ai Engineer,Bahwan CyberTek Private Limited,Chennai,,,,25-08-2026,TRUE,FALSE,,TRUE,"Python, Azure, Machine Learning, TensorFlow"
+5842589939,AI Engineer,Ai Engineer,Anblicks Solutions,Ahmedabad,,,,15-08-2026,TRUE,FALSE,,TRUE,"Python, SQL, AWS, PostgreSQL, MySQL, NLP, FastAPI, Django, Flask"
+5828883129,AI Engineer,Ai Engineer,Happiest Resume,Bangalore,6,10,,05-08-2026,FALSE,TRUE,8,TRUE,NA
+5871406366,AI Engineer,Ai Engineer,Benchmark IT Solutions India Pvt Ltd,Pune,,,,05-09-2026,TRUE,FALSE,,TRUE,Generative AI
+5879552303,AI Engineer,Ai Engineer,Allucent,Bangalore,,,5,11-09-2026,TRUE,FALSE,,TRUE,"Python, Azure, Generative AI"
+5889550617,AI Engineer,Ai Engineer,Dialnexa,Bangalore,,,,18-09-2026,FALSE,FALSE,,TRUE,NA
+5900356049,AI Engineer,Ai Engineer,"NTT America, Inc.",Bangalore,,,,27-09-2026,FALSE,FALSE,,TRUE,NA
+5904049290,AI Engineer,Ai Engineer,Pon Pure Chemicals,NA,5,7,,30-09-2026,TRUE,TRUE,6,TRUE,Python
+5846124534,AI Engineer,Ai Engineer,iprogrammer,Pune,,,,18-08-2026,TRUE,FALSE,,TRUE,"Python, Generative AI, FastAPI"
+5735931209,AI Engineer,Lead Ai Engineer/ Senior Ai Engineer,r3 Consultant,Bangalore,18,35,4,21-05-2026,TRUE,TRUE,26.5,TRUE,"Python, SQL, AWS, Azure, Google Cloud"
+5913039155,AI Engineer,Ai Engineer | India,Volga Partners,NA,,,,06-10-2026,TRUE,FALSE,,TRUE,Generative AI
+5842889651,AI Engineer,Principal Ai Engineer,Creative Chaos,NA,,,,15-08-2026,TRUE,FALSE,,TRUE,Machine Learning
+5889409914,AI Engineer,Ai Engineering Intern,Abstrabit Technologies Pvt Ltd,Bangalore,,,,18-09-2026,FALSE,FALSE,,TRUE,Data Pipeline
+5917680385,AI Engineer,Senior Ai Engineer,"Oteemo, Inc",Hyderabad,,,4,08-10-2026,FALSE,FALSE,,TRUE,NA
+5914334313,AI Engineer,Salesforce Ai Engineer,Vrinda International,Bangalore,12,12,,07-10-2026,FALSE,TRUE,12,TRUE,NA
+5873854630,AI Engineer,Ai Engineer Intern,Bridge-it,Delhi,,2.16,,07-09-2026,TRUE,FALSE,,TRUE,"Python, Generative AI, REST APIs"
+5918133977,AI Engineer,Ai Engineer Ii,Rekruton Technologies,Ahmedabad,10,20,,08-10-2026,FALSE,TRUE,15,TRUE,NA
+5856830687,AI Engineer,Lead Ai Engineer,Digital Green,Bangalore,,,6,26-08-2026,FALSE,FALSE,,TRUE,NA
+5730249395,AI Engineer,Remote Ai Engineer,Huzzle,NA,,,,15-05-2026,FALSE,FALSE,,TRUE,NA
+5782360860,AI Engineer,Generative Ai Engineer,Weekday AI,NA,,,4,01-07-2026,TRUE,FALSE,,TRUE,Generative AI
+5879649161,AI Engineer,Agentic Ai Engineer,Weekday AI,NA,,,5,11-09-2026,TRUE,FALSE,,TRUE,Generative AI
+5918133980,AI Engineer,Ai Engineer Iii,Rekruton Technologies,Ahmedabad,15,25,,08-10-2026,FALSE,TRUE,20,TRUE,NA
+5888035692,AI Engineer,Senior Ai Engineer,AI Accountant,NA,,,,17-09-2026,FALSE,FALSE,,TRUE,NA
+5698058372,AI Engineer,Senior Ai Engineer,xponentiate,NA,,,,13-04-2026,FALSE,FALSE,,TRUE,NA
+5712597295,AI Engineer,Senior Ai Engineer,2070Health,NA,,,,28-04-2026,FALSE,FALSE,,TRUE,NA
+5848478343,AI Engineer,Senior Ai Engineer,Nacre Capital,NA,,,,19-08-2026,FALSE,FALSE,,TRUE,NA
+5902535490,AI Engineer,Generative Ai Engineer,Sia,Mumbai,,,,29-09-2026,TRUE,FALSE,,TRUE,Generative AI
+5830529923,AI Engineer,Principal Ai Engineer,BuzzBoard,Hyderabad,,,,06-08-2026,FALSE,FALSE,,TRUE,NA
+5917565706,AI Engineer,Ai Engineer (Fde),AuxoAI,Bangalore,,,,08-10-2026,FALSE,FALSE,,TRUE,NA
+5853419541,AI Engineer,Lead Ai Engineer,Bridge-it,Delhi,,,4,23-08-2026,FALSE,FALSE,,TRUE,NA
+5850829193,AI Engineer,Lead Ai Engineer,Egon Zehnder,NA,,,,21-08-2026,FALSE,FALSE,,TRUE,NA
+5634594483,AI Engineer,Lead Ai Engineer,Origin,NA,,,,18-02-2026,FALSE,FALSE,,FALSE,NA
+5903602446,AI Engineer,Sr Ai Engineer,Enable Data Incorporated,NA,,,,30-09-2026,TRUE,FALSE,,TRUE,"Machine Learning, Databricks"
+5889204619,AI Engineer,Junior Ai Engineer,WonderBotz,Ahmedabad,,,,18-09-2026,TRUE,FALSE,,TRUE,Generative AI
+5884579554,AI Engineer,Junior Ai Engineer,Planso,NA,,,,15-09-2026,FALSE,FALSE,,TRUE,NA
+5898179091,AI Engineer,Ai Engineer (Ai Labs),Weekday AI,Bangalore,,,3,25-09-2026,FALSE,FALSE,,TRUE,NA
+5904036435,AI Engineer,Ai Engineer - Ai & Automation,eBay,Bangalore,,,,30-09-2026,FALSE,FALSE,,TRUE,NA
+5051646045,AI Engineer,Ai Engineer / Gen Ai Engineer (Llm/Nlp),NeoGenCode Technologies Pvt Ltd,NA,1,6,,16-02-2025,TRUE,TRUE,3.5,FALSE,"Azure, NLP, Generative AI"
+5245767315,AI Engineer,Ai Engineer (Voice Ai),I-Stem,Bangalore,20,25,,12-06-2025,FALSE,TRUE,22.5,FALSE,NA
+5769817415,AI Engineer,Ai Engineer_Agentic Ai,Capco,NA,,,,20-06-2026,FALSE,FALSE,,TRUE,NA
+5811667785,AI Engineer,Generative Ai Engineer,Lightrains Technolabs,Kochi,,,,23-07-2026,TRUE,FALSE,,TRUE,Generative AI
+5899870857,AI Engineer,Ai Engineering Manager,Ecolab,NA,,,8,26-09-2026,TRUE,FALSE,,TRUE,Generative AI
+5909286094,AI Engineer,Ai Engineering Architect,Infosys Limited,Bangalore,,,,03-10-2026,TRUE,FALSE,,TRUE,Generative AI
+5581756803,AI Engineer,Senior Ai Engineer,Techgenzi Private Limited,Coimbatore,6,12,2,13-01-2026,FALSE,TRUE,9,FALSE,NA
+5914006467,AI Engineer,Ai Engineering Lead,Tupargon India,NA,,,,06-10-2026,FALSE,FALSE,,TRUE,NA
+5902987692,AI Engineer,Aiml - Ai Engineer,Softcrayons IT Education,Other,,,3,29-09-2026,TRUE,FALSE,,TRUE,"Machine Learning, Data Visualization, Statistics"
+5775399483,AI Engineer,"Principal, Ai Engineer",Volante Technologies,NA,,,,25-06-2026,FALSE,FALSE,,TRUE,NA
+5856968390,AI Engineer,Senior Ai Engineer,Jade Global,Pune,,,,26-08-2026,TRUE,FALSE,,TRUE,"Python, Java, Node.js, C#/.NET, AWS, Azure, Google Cloud, Docker, Kubernetes, Git, Generative AI"
+5867233067,AI Engineer,Lead Ai Engineer,Jade Global,Hyderabad,,,,02-09-2026,TRUE,FALSE,,TRUE,"Python, Java, Node.js, C#/.NET, AWS, Azure, Google Cloud, Docker, Kubernetes, Git, Generative AI"
+5816842839,AI Engineer,Principal Ai Engineer,Cornerstone OnDemand,Hyderabad,,,8,27-07-2026,FALSE,FALSE,,TRUE,NA
+5914013423,AI Engineer,Senior Ai Engineer,Tupargon India,NA,,,,06-10-2026,FALSE,FALSE,,TRUE,NA
+5811916811,AI Engineer,Principal Ai Engineer,Cornerstone OnDemand,NA,,,8,23-07-2026,FALSE,FALSE,,TRUE,NA
+5883278708,AI Engineer,Gen Ai Engineer,Cognizant,Bangalore,,,6,14-09-2026,TRUE,FALSE,,TRUE,Python
+5400405284,AI Engineer,Senior Ai Engineer,Quantanite,Mumbai,,,,15-09-2025,TRUE,FALSE,,FALSE,Generative AI
+5894590314,AI Engineer,Agentic Ai Engineer,Sails Software Inc,NA,,,,23-09-2026,TRUE,FALSE,,TRUE,"Python, Generative AI"
+5657837841,AI Engineer,Senior Ai Engineer,EXL,Noida,,,,08-03-2026,TRUE,FALSE,,FALSE,"Machine Learning, Generative AI"
+5729715235,AI Engineer,Senior Ai Engineer,MM Staffing & Career Consultants,NA,6,6,,15-05-2026,TRUE,TRUE,6,TRUE,"Python, SQL"
+5888775062,AI Engineer,Ai Engineer - Ii,Teradata,Hyderabad,,,,18-09-2026,FALSE,FALSE,,TRUE,NA
+5888775059,AI Engineer,Ai Engineer - Ii,Teradata,Bangalore,,,,18-09-2026,FALSE,FALSE,,TRUE,NA
+5904051880,AI Engineer,Senior Ai Engineer,Jobgether,NA,,,,30-09-2026,FALSE,FALSE,,TRUE,NA
+5899549692,AI Engineer,Ai Engineering Intern,iamneo - An NIIT Venture,Coimbatore,,,,26-09-2026,TRUE,FALSE,,TRUE,"AWS, Azure, Google Cloud"
+5912051706,AI Engineer,Senior Ai Engineer,Infosys Limited,Bangalore,,,,05-10-2026,TRUE,FALSE,,TRUE,"Python, SQL, NLP"
+5881119981,AI Engineer,Senior Ai Engineer,Ecolab,NA,,,,12-09-2026,TRUE,FALSE,,TRUE,Azure
+5767891882,AI Engineer,Cloud Ai Engineer,Market Research Future Reports,NA,18,35,,18-06-2026,TRUE,TRUE,26.5,TRUE,Google Cloud
+5314054003,AI Engineer,Generative Ai Engineer,Ekloud INC,NA,15,18,6,21-07-2025,TRUE,TRUE,16.5,FALSE,Generative AI
+5864828716,AI Engineer,Associate Ai Engineer,Ecolab,NA,,,2,01-09-2026,TRUE,FALSE,,TRUE,Generative AI
+5890074043,AI Engineer,Gen Ai Engineer,Infosys Limited,Bangalore,,,,19-09-2026,TRUE,FALSE,,TRUE,Python
+5505337432,AI Engineer,Senior Ai Engineer,MBR Partners,NA,,,,20-11-2025,TRUE,FALSE,,FALSE,Generative AI
+5897952934,AI Engineer,Azure Ai Engineer,"NTT America, Inc.",Bangalore,,,,25-09-2026,TRUE,FALSE,,TRUE,Azure
+5623721414,AI Engineer,Gen Ai Engineer,Techify Solutions,Ahmedabad,,,3,11-02-2026,TRUE,FALSE,,FALSE,NLP
+5895069267,AI Engineer,Junior Ai Engineer,Vikash Technologies,Pune,6,16,3,23-09-2026,TRUE,TRUE,11,TRUE,"Python, JavaScript, AWS, Azure, Google Cloud, Machine Learning"
+5870790890,AI Engineer,Lead Ai Engineer,Baker Hughes,NA,,,,04-09-2026,TRUE,FALSE,,TRUE,Generative AI
+5826314043,AI Engineer,Lead Ai Engineer,r3 Consultant,Bangalore,35,40,8,03-08-2026,FALSE,TRUE,37.5,TRUE,NA
+5838433923,AI Engineer,Lead Ai Engineer,Ecolab,NA,,,8,12-08-2026,TRUE,FALSE,,TRUE,Generative AI
+5903777285,AI Engineer,Generative Ai Engineer,Gravity Engineering Services Pvt Ltd,Bangalore,8,40,1,30-09-2026,TRUE,TRUE,24,TRUE,Generative AI
+5905444518,AI Engineer,Principal Ai Engineer,Metadome.ai,Bangalore,45,55,,01-10-2026,FALSE,TRUE,50,TRUE,NA
+5513049976,Data Engineer,Data Engineer-Data Engineer-Engineering,EXL,Noida,,,,25-11-2025,FALSE,FALSE,,FALSE,Data Pipeline
+5906281988,Data Engineer,Data Engineer,Indus Infotech,Other,,,7,02-10-2026,TRUE,FALSE,,TRUE,"Python, SQL, Apache Spark, Databricks"
+5880151523,Data Engineer,Data Engineer,BSRI Solutions Pvt Ltd,Chennai,,,5,12-09-2026,TRUE,FALSE,,TRUE,"Python, SQL, ETL"
+5902287163,Data Engineer,Data Engineer,ALTRAIZE,Bangalore,12,15,4,29-09-2026,TRUE,TRUE,13.5,TRUE,"Python, SQL, ETL, Snowflake, Data Pipeline"
+5830375297,Data Engineer,Data Engineer,Weekday AI,NA,,,5,06-08-2026,TRUE,FALSE,,TRUE,"SQL, Azure, Databricks, Data Pipeline"
+5912846934,Data Engineer,Data Engineer,VDart,Bangalore,,,6,05-10-2026,TRUE,FALSE,,TRUE,"Python, SQL, Azure, Databricks, Data Pipeline"
+5840236895,Data Engineer,Data Engineer,Serko Ltd,NA,,,,13-08-2026,FALSE,FALSE,,TRUE,NA
+4732696920,Data Engineer,Data Engineer,Mindpool Technologies,Pune,,,,12-06-2024,FALSE,FALSE,,FALSE,NA
+5890338762,Data Engineer,Data Engineer,Coretek Services,NA,,,,19-09-2026,FALSE,FALSE,,TRUE,NA
+5761252339,Data Engineer,Data Engineer,Unison Group,NA,,,,12-06-2026,TRUE,FALSE,,TRUE,"ETL, Snowflake, Data Pipeline"
+5877829060,Data Engineer,Data Engineer,Venxr,Pune,5,7,,10-09-2026,TRUE,TRUE,6,TRUE,"Python, SQL, Power BI"
+5906636179,Data Engineer,Data Engineer,GeekSoft Consulting,Bangalore,,,,02-10-2026,TRUE,FALSE,,TRUE,"SQL, Power BI, Databricks"
+5914221195,Data Engineer,Data Engineer,Acme Services Private Limited,Delhi,14,15,,07-10-2026,TRUE,TRUE,14.5,TRUE,"SQL, Linux, ETL, Oracle"
+5885974954,Data Engineer,Data Engineer/Universe Data Engineer,Rapsys Technologies,NA,,,8,16-09-2026,FALSE,FALSE,,TRUE,NA
+5887125516,Data Engineer,Data Engineer/Universe Data Engineer,Tap Growth ai,Delhi,,,8,17-09-2026,FALSE,FALSE,,TRUE,NA
+5843196561,Data Engineer,"Data Engineer, In Data Engineering & Analytics",Amazon,NA,,,,15-08-2026,FALSE,FALSE,,TRUE,NA
+5804445061,Data Engineer,"Data Engineer, In Data Engineering & Analytics",Amazon,Bangalore,,,,17-07-2026,FALSE,FALSE,,TRUE,NA
+5802676305,Data Engineer,"Data Engineer, In Data Engineering & Analytics",ASSPL - Karnataka,Bangalore,,,,16-07-2026,FALSE,FALSE,,TRUE,NA
+5898505377,Data Engineer,Data Engineer / Senior Data Engineer,embIND Embitel Technologies,NA,,,,25-09-2026,FALSE,FALSE,,TRUE,NA
+3220530192,Data Engineer,Data Engineer & Sr Data Engineer,Fragma Data Systems,Bangalore,5,15,,12-06-2022,TRUE,TRUE,10,FALSE,"SQL, Apache Spark"
+5382880244,Data Engineer,Lead Data Engineer - Data Engineering,Bristlecone,Bangalore,,,,04-09-2025,FALSE,FALSE,,FALSE,Snowflake
+4839916056,Data Engineer,Senior Data Engineer - Data Engineering,Bristlecone,Mumbai,,,,26-08-2024,TRUE,FALSE,,FALSE,"SQL, Tableau, Data Visualization"
+1575030887,Data Engineer,Data Engineer,Archelons Consulting,Bangalore,15,30,4,16-06-2020,TRUE,TRUE,22.5,FALSE,"Apache Spark, Hadoop"
+5866552725,Data Engineer,Data Engineer,Hirestar job Bank,Bangalore,20,30,3,02-09-2026,TRUE,TRUE,25,TRUE,"AWS, Azure, Apache Spark, ETL, Databricks, Snowflake"
+5843168311,Data Engineer,Data Engineer,EXL,NA,,,,15-08-2026,TRUE,FALSE,,TRUE,"SQL, ETL, Snowflake, Data Pipeline"
+4171468211,Data Engineer,Data Engineer,Mobile Programming LLC,Bangalore,10,15,6,26-06-2023,TRUE,TRUE,12.5,FALSE,ETL
+5916910615,Data Engineer,Data Engineer,"Miracle Software Systems, Inc",Other,2,4,3,07-10-2026,TRUE,TRUE,3,TRUE,"Apache Spark, Hadoop"
+5913669039,Data Engineer,Data Engineer,Gravity Engineering Services Pvt Ltd,Delhi,6,35,1,06-10-2026,TRUE,TRUE,20.5,TRUE,"Python, SQL, ETL, Data Pipeline"
+5903326125,Data Engineer,Data Engineer,ascendion,Hyderabad,,,7,30-09-2026,TRUE,FALSE,,TRUE,"Python, SQL, Data Pipeline"
+5266460272,Data Engineer,Data Engineer,Tecblic Private LImited,Ahmedabad,8,12,4,25-06-2025,FALSE,TRUE,10,FALSE,NA
+5001819517,Data Engineer,Data Engineer,NeoGenCode Technologies Pvt Ltd,Pune,1,12,4,08-01-2025,TRUE,TRUE,6.5,FALSE,"Python, SQL, Business Intelligence, Data Pipeline"
+5847823784,Data Engineer,Data Engineer,Appsierra Group,Noida,10,12,,19-08-2026,TRUE,TRUE,11,TRUE,"SQL, AWS, Data Pipeline"
+5744382099,Data Engineer,Data Engineer,TalentWeave,Hyderabad,12,14,,29-05-2026,TRUE,TRUE,13,TRUE,"Python, Google Cloud, ETL"
+5893835668,Data Engineer,Data Engineer,VY Systems,Hyderabad,9,20,5,22-09-2026,TRUE,TRUE,14.5,TRUE,"Python, SQL, ETL"
+5906695018,Data Engineer,Data Engineer,Frimon Techlabs,Delhi,,,7,02-10-2026,TRUE,FALSE,,TRUE,"SQL, ETL, Data Pipeline"
+5677793279,Data Engineer,Data Engineer,Peak Hire Solutions,Kochi,12,27,,25-03-2026,TRUE,TRUE,19.5,FALSE,"MongoDB, Snowflake"
+5908365645,Data Engineer,Data Engineer,dentsu,NA,,,,02-10-2026,TRUE,FALSE,,TRUE,"SQL, Data Pipeline"
+5503837047,Data Engineer,Data Engineer,Nova Nurture HR Solutions,Bangalore,,,,20-11-2025,TRUE,FALSE,,FALSE,"Python, SQL, ETL, Data Pipeline"
+5915355189,Data Engineer,Data Engineer,Rapsys Technologies,Pune,,,12,07-10-2026,FALSE,FALSE,,TRUE,NA
+5913666753,Data Engineer,Data Engineer,Rapsys Technologies,NA,,,12,06-10-2026,FALSE,FALSE,,TRUE,NA
+2721354316,Data Engineer,Data Engineer,Vipsa Talent Solutions,Bangalore,8,15,6,09-12-2021,TRUE,TRUE,11.5,FALSE,"Python, SQL, AWS, Apache Spark, Hadoop"
+4750106248,Data Engineer,Data Engineers,Nielsen,NA,,,,24-06-2024,FALSE,FALSE,,FALSE,NA
+5842747224,Data Engineer,Data Engineer,Inspire Brands Hyderabad Support Center,Hyderabad,,,3,15-08-2026,TRUE,FALSE,,TRUE,"Python, SQL, Azure, Snowflake"
+5393679407,Data Engineer,Data Engineer,FastHire Manpower Solution,Ahmedabad,3,12,5,11-09-2025,TRUE,TRUE,7.5,FALSE,"Python, SQL, Azure, Git, Pandas, NumPy, Databricks"
+5903524381,Data Engineer,Data Engineer,Expleo,Pune,,,5,30-09-2026,TRUE,FALSE,,TRUE,"Python, Azure, Apache Spark, Databricks"
+5917369939,Data Engineer,Data Engineer,DXC Technology,NA,,,,07-10-2026,FALSE,FALSE,,TRUE,Data Pipeline
+5850370913,Data Engineer,Data Engineer,Yash Technologies Private Limited,Bangalore,,,2,21-08-2026,TRUE,FALSE,,TRUE,SQL
+5374613563,Data Engineer,Data Engineer,TIGI HR Solution Pvt. Ltd.,Pune,10,15,10,30-08-2025,TRUE,TRUE,12.5,FALSE,"SQL, ETL, Snowflake"
+2539490047,Data Engineer,Data Engineer,Rize @ People Konnect Pvt. Ltd.,Bangalore,,40,2,13-10-2021,TRUE,FALSE,,FALSE,"Python, SQL, AWS, Docker, MongoDB, PostgreSQL, MySQL, ETL"
+2830210888,Data Engineer,Data Engineer,Amagi Media Labs,Bangalore,5,17,5,21-01-2022,TRUE,TRUE,11,FALSE,"Apache Spark, Hadoop"
+5878690256,Data Engineer,Data Engineer,Masco,NA,,,,10-09-2026,FALSE,FALSE,,TRUE,Data Pipeline
+5831330916,Data Engineer,Data Engineer,ALIQAN Technologies,Bangalore,,,,07-08-2026,FALSE,FALSE,,TRUE,NA
+5816837030,Data Engineer,Data Engineer,CACI,Hyderabad,,,,27-07-2026,TRUE,FALSE,,TRUE,AWS
+5860532661,Data Engineer,Data Engineer,Globalfoundries Engineering Private Limited,Bangalore,,,,29-08-2026,TRUE,FALSE,,TRUE,"Machine Learning, Data Pipeline"
+5008443987,Data Engineer,Data Engineer,Indigrators solutions,Hyderabad,18,24,5,13-01-2025,TRUE,TRUE,21,FALSE,Python
+5684977516,Data Engineer,Data Engineer,Tops Infosolutions,Ahmedabad,12,18,,01-04-2026,FALSE,TRUE,15,FALSE,Data Pipeline
+5909846531,Data Engineer,Data Engineer,Cloud Sara Technologies,NA,6,7,5,03-10-2026,TRUE,TRUE,6.5,TRUE,"ETL, Data Warehouse"
+5225609557,Data Engineer,Data Engineer,Deqode,NA,5,15,6,01-06-2025,TRUE,TRUE,10,FALSE,"Python, Google Cloud, Apache Spark"
+3605574271,Data Engineer,Data Engineer,Seven N Half,Bangalore,10,15,,20-10-2022,TRUE,TRUE,12.5,FALSE,"Python, SQL, Azure, Apache Spark, Hadoop, Databricks"
+5850375732,Data Engineer,Data Engineer,Mindera,Bangalore,,,,21-08-2026,TRUE,FALSE,,TRUE,Statistics
+5824116468,Data Engineer,Data Engineer,Altera Semiconductor,Bangalore,,,,01-08-2026,TRUE,FALSE,,TRUE,"Azure, Databricks"
+4450345199,Data Engineer,Data Engineer,Career Forge,Delhi,12,15,5,24-11-2023,TRUE,TRUE,13.5,FALSE,"Python, AWS, Azure, Apache Spark"
+4965365450,Data Engineer,Data Engineer,Fatakpay,NA,8,14,2,06-12-2024,FALSE,TRUE,11,FALSE,NA
+5832090312,Data Engineer,Data Engineer,Ascentt-India,Pune,,,,07-08-2026,FALSE,FALSE,,TRUE,Data Pipeline
+5860548491,Data Engineer,Data Engineer,Infosys Limited,Pune,,,,29-08-2026,TRUE,FALSE,,TRUE,"ETL, Data Pipeline"
+4322836515,Data Engineer,Data Engineer,New Era India,Bangalore,30,50,2,20-09-2023,TRUE,TRUE,40,FALSE,"Python, Java, JavaScript, ETL, Data Pipeline"
+5727189224,Data Engineer,Data Engineer,Acura Solution,Mumbai,,,,13-05-2026,TRUE,FALSE,,TRUE,Machine Learning
+5416884028,Data Engineer,Data Engineer,Blurgs,Hyderabad,4,10,,27-09-2025,FALSE,TRUE,7,FALSE,NA
+4514375910,Data Engineer,Data Engineer,Qrata,Mumbai,12,30,,07-01-2024,FALSE,TRUE,21,FALSE,NA
+5884786159,Data Engineer,Data Engineer,Milliman,Gurgaon,,,,15-09-2026,FALSE,FALSE,,TRUE,NA
+5840174975,Data Engineer,Data Engineer,Wissen Technology,Bangalore,,,,13-08-2026,TRUE,FALSE,,TRUE,"Python, Power BI, Data Pipeline"
+3008423275,Data Engineer,Data Engineer,surusha technology Pvt Ltd,NA,3,6,3,30-03-2022,TRUE,TRUE,4.5,FALSE,"Python, SQL, Azure, ETL"
+5885478483,Data Engineer,Data Engineer,LTM,Bangalore,,,4,16-09-2026,TRUE,FALSE,,TRUE,"Python, SQL, AWS, ETL, Generative AI, Snowflake, Data Pipeline, Oracle"
+4717935451,Data Engineer,Data Engineer,Blitz Electric,NA,12,15,,02-06-2024,FALSE,TRUE,13.5,FALSE,NA
+3757201501,Data Engineer,Data Engineering,Tredence,Chennai,20,32,,08-12-2022,FALSE,TRUE,26,FALSE,NA
+5801799261,Data Engineer,Data Engineer,Trellance,NA,,,,16-07-2026,FALSE,FALSE,,TRUE,NA
+5913974341,Data Engineer,Data Engineer,WSP,Noida,,,,06-10-2026,FALSE,FALSE,,TRUE,NA
+5829186024,Data Engineer,Data Engineer,Ciklum,NA,,,,05-08-2026,FALSE,FALSE,,TRUE,NA
+5518597092,Data Engineer,Data Engineer,Talent Pro,Pune,8,11,2,29-11-2025,TRUE,TRUE,9.5,FALSE,"SQL, ETL, Databricks"
+1583299519,Data Engineer,Data Engineer,Mobile Programming LLC,Chennai,12,18,,24-06-2020,FALSE,TRUE,15,FALSE,Data Pipeline
+5850371335,Data Engineer,Data Engineer,Stacknexus Technologies Private Limited,NA,,,,21-08-2026,TRUE,FALSE,,TRUE,"Azure, ETL, Databricks"
+5915041985,Data Engineer,Data Engineer,Techdome,Hyderabad,,,3,07-10-2026,FALSE,FALSE,,TRUE,NA
+5784360001,Data Engineer,Data Engineer,Air Distribution Technologies Careers,Pune,,,,02-07-2026,TRUE,FALSE,,TRUE,"SQL, Azure"
+5859123855,Data Engineer,Data Engineer,Aritha,Bangalore,,,,28-08-2026,TRUE,FALSE,,TRUE,"AWS, ETL"
+5877295727,Data Engineer,Data Engineer,Cummins,Pune,,,,09-09-2026,FALSE,FALSE,,TRUE,Data Pipeline
+5294954883,Data Engineer,Data Engineer,Multi Recruit,Bangalore,30,40,3,10-07-2025,TRUE,TRUE,35,FALSE,"SQL, Data Pipeline"
+4514376973,Data Engineer,Data Engineer,Qrata,Bangalore,14,56,5,07-01-2024,TRUE,TRUE,35,FALSE,"Python, SQL, AWS, Linux, MySQL, Apache Spark, ETL, Data Pipeline"
+5877842198,Data Engineer,Data Engineer,TechnoGen,Hyderabad,,,,10-09-2026,TRUE,FALSE,,TRUE,"Python, SQL, AWS, Apache Spark, ETL"
+5890815051,Data Engineer,Data Engineers,IBS Software,NA,,,,19-09-2026,TRUE,FALSE,,TRUE,ETL
+5898184074,Data Engineer,Data Engineer,VY Systems,Bangalore,12,26,7,25-09-2026,TRUE,TRUE,19,TRUE,"Python, SQL, AWS, Azure, Google Cloud, Hadoop, ETL, Data Pipeline, Oracle"
+5164935645,Data Engineer,Data Engineer,TIGI HR Solution Pvt. Ltd.,Mumbai,10,15,3,27-04-2025,TRUE,TRUE,12.5,FALSE,"Python, SQL, Databricks, Data Pipeline"
+5300206490,Data Engineer,Data Engineer,Arrow,Ahmedabad,,,,13-07-2025,TRUE,FALSE,,FALSE,"AWS, Azure, Google Cloud, Machine Learning, Data Pipeline"
+3546811670,Data Engineer,Data Engineer,Agiletech Info Solutions pvt ltd,Chennai,4,15,,02-10-2022,FALSE,TRUE,9.5,FALSE,Data Pipeline
+5916907377,Data Engineer,Data Engineer,RandomTrees,Hyderabad,1,30,,07-10-2026,TRUE,TRUE,15.5,TRUE,"Python, SQL, AWS, PostgreSQL, ETL, Data Visualization"
+4987812580,Data Engineer,Data Engineer,PayU,Bangalore,5,20,,24-12-2024,FALSE,TRUE,12.5,FALSE,NA
+4405536309,Data Engineer,Data Engineer,Swiggy,NA,14,30,,01-11-2023,FALSE,TRUE,22,FALSE,NA
+5876949000,Data Engineer,Data Engineer,NowVertical,Mumbai,,,2,09-09-2026,FALSE,FALSE,,TRUE,NA
+4862170197,Data Engineer,Data Engineering,MathCo,Bangalore,,,,13-09-2024,FALSE,FALSE,,FALSE,NA
+5854880255,Data Engineer,Data Engineer,Oliver Wyman,Gurgaon,,,,25-08-2026,TRUE,FALSE,,TRUE,ETL
+5879147400,Data Engineer,Data Engineer,Elf Beauty,Ahmedabad,,,,11-09-2026,FALSE,FALSE,,TRUE,"Data Warehouse, Data Pipeline"
+4133108967,Data Engineer,Data Engineer,Inviz Ai Solutions Private Limited,Bangalore,,,,03-06-2023,TRUE,FALSE,,FALSE,NLP
+5861796033,Data Engineer,Data Engineer,Vantageiq Technologies Opc,Chennai,,,,30-08-2026,TRUE,FALSE,,TRUE,"Apache Spark, ETL, Data Pipeline"
+2292874910,Data Engineer,Data Engineer,Fint Solutions,Hyderabad,5,20,5,01-07-2021,TRUE,TRUE,12.5,FALSE,"Python, SQL, Azure"
+5866552514,Data Engineer,Data Engineer,Appsierra Group,Pune,,,,02-09-2026,TRUE,FALSE,,TRUE,"SQL, AWS, ETL, Data Pipeline"
+5849678653,Data Engineer,Data Engineer,Amgen,Hyderabad,,,,20-08-2026,FALSE,FALSE,,TRUE,NA
+5879360284,Data Engineer,Data Engineer,Costco,Hyderabad,,,,11-09-2026,TRUE,FALSE,,TRUE,"Machine Learning, Data Pipeline"
+5251186531,Data Engineer,Data Engineer,Konrad,Gurgaon,,,,15-06-2025,FALSE,FALSE,,FALSE,NA
+5363475721,Data Engineer,Data Engineer,Career Maker Consultant BPC,NA,,,,22-08-2025,TRUE,FALSE,,FALSE,"ETL, Data Pipeline, Oracle"
+3214413067,Data Engineer,Data Engineer,Fragma Data Systems,Bangalore,,12,,10-06-2022,TRUE,FALSE,,FALSE,"SQL, AWS, Data Pipeline"
+5866552527,Data Engineer,Data Engineer,Appsierra Group,Mumbai,,,,02-09-2026,TRUE,FALSE,,TRUE,"SQL, Data Pipeline"
+5917356671,Data Engineer,Data Engineer,Accenture,NA,,,3,07-10-2026,TRUE,FALSE,,TRUE,"ETL, Databricks, Data Pipeline"
+5750118764,Data Engineer,Data Engineer,lululemon India Tech Hub,Bangalore,,,,03-06-2026,FALSE,FALSE,,TRUE,NA
+5797375012,Data Engineer,Data Engineer,Altimate.ai,Bangalore,,,,12-07-2026,FALSE,FALSE,,TRUE,NA
+5659207338,Data Engineer,Data Engineer,PhotonMatters,NA,8,20,4,09-03-2026,TRUE,TRUE,14,FALSE,"AWS, Data Pipeline"
